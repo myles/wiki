@@ -1,9 +1,9 @@
 {
   "devDependencies": {
-    "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-edit-link": "^2.0.2",
-    "gitbook-plugin-rss": "^3.0.2",
-    "remark-cli": "^5.0.0"
+    "gitbook-cli": "2.3.2",
+    "gitbook-plugin-edit-link": "2.0.2",
+    "gitbook-plugin-rss": "3.0.2",
+    "remark-cli": "5.0.0"
   },
   "scripts": {
     "build": "gitbook build",

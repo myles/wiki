@@ -1,12 +1,18 @@
 {
   "plugins": [
-    "edit-link"
+    "edit-link",
+    "rss"
   ],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/myles/wiki/edit/master/",
       "label": "Edit"
+    },
+    "rss": {
+      "title": "Myles' Wiki",
+      "author": "Myles Braithwaite",
+      "site_url": "https://wiki.mylesb.ca/",
+      "feed_url": "feed.xml"
     }
   }
 }
-

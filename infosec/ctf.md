@@ -3,7 +3,7 @@
 ## Links
 
 * [A Penetration Tester’s Guide to Postgres](https://medium.com/@cryptocracker99/a-penetration-testers-guide-to-postgresql-d78954921ee9)
-* 
+
 ## Useful Commands
 
 ### Searching a range of IP Address

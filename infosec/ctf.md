@@ -1,0 +1,20 @@
+# Capture the Flag
+
+## Useful Commands
+
+```
+root@kali:~# netdiscover -i eth2 -r 192.168.0.0/24
+
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                 
+                                                                               
+ 4 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 240               
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.0.1     f8:1a:67:5a:fe:24      1      60  TP-LINK TECHNOLOGIES CO.,LTD
+ 192.168.0.100   a8:60:b6:3a:56:ce      2     120  Apple, Inc.                 
+ 192.168.0.101   e0:3f:49:14:a9:0d      1      60  Unknown vendor 
+```
+
+
+

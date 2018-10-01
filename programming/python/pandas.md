@@ -17,7 +17,7 @@ engine = create_engine("postgresql:///database")
 
 df = pd.read_sql_query("SELECT * FROM table;", con=engine)
 
-df.tail()
+df.head()
 ```
 
 #### SQLite

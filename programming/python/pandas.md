@@ -2,7 +2,7 @@
 
 ## Notes
 
-* [`pandas.io.json.json_normalize`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html) is a function to _normalize_ structured JSON into a flat `dataframe`. Useful for working with data that comes from an JSON API.
+*   [`pandas.io.json.json_normalize`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html) is a function to _normalize_ structured JSON into a flat `dataframe`. Useful for working with data that comes from an JSON API.
 
 ## Snippets
 
@@ -39,6 +39,3 @@ from slugify import slugify
 
 df.columns = [slugify(c, separator="_", to_lower=True) for c in df.columns]
 ```
-
-
-

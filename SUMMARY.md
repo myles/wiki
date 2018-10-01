@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Meta](meta.md)
-* [Projects](projects.md)
-  * [django-jsonfeed](projects/django-jsonfeed.md)
+* [Programming](programming.md)
+  * [Python](programming/python.md)
+    * [Pandas](programming/python/pandas.md)
 

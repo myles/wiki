@@ -1,0 +1,94 @@
+Ping scans the network, listing machines that respond to ping:
+
+```sh
+nmap -sP 10.0.0.0/24
+```
+
+Full TCP port scan using with service version detection - usually my first scan, I find T4 more accurate than T5 and still _pretty quick_:
+
+```sh
+nmap -p 1-65535 -sV -sS -T4 target
+```
+
+Prints verbose output, runs stealth syn scan, T4 timing, OS and version detection + traceroute and scripts against target services:
+
+```sh
+nmap -v -sS -A -T4 target
+```
+
+Prints verbose output, runs stealth syn scan, T5 timing, OS and version detection + traceroute and scripts against target services:
+
+```sh
+nmap -v -sS -A -T5 target
+```
+
+Prints verbose output, runs stealth syn scan, T5 timing, OS and version detection:
+
+```sh
+nmap -v -sV -O -sS -T5 target
+```
+
+Prints verbose output, runs stealth syn scan, T4 timing, OS and version detection + full port range scan:
+
+```sh
+nmap -v -p 1-65535 -sV -O -sS -T4 target
+```
+
+Prints verbose output, runs stealth syn scan, T5 timing, OS and version detection + full port range scan:
+
+```sh
+nmap -v -p 1-65535 -sV -O -sS -T5 target
+```
+
+## Scan from file.
+
+Scans a list of IP addresses, you can add options before / after.
+
+```sh
+nmap -iL ip-addresses.txt
+```
+
+### Output Formats
+
+Outputs _grepable_ output to a file, in this example Netbios servers. E.g, The output file could be grepped for _Open_:
+
+```sh
+nmap -sV -p 139,445 -oG grep-output.txt 10.0.1.0/24
+```
+
+Export output to a HTML report:
+
+```sh
+nmap -sS -sV -T5 10.0.1.99 --webxml -oX - | xsltproc --output file.html -
+```
+
+## Netbios Examples
+
+Find all Netbios servers on a subnet:
+
+```sh
+nmap -sV -v -p 139,445 10.0.0.1/24
+```
+
+Display Netbios name:
+
+```sh
+nmap -sU --script nbstat.nse -p 137 target
+```
+
+Check if Netbios servers are vulnerable to MS08-067 (`--script-args=unsafe=1` has the potential to crash servers / services).
+
+## Nikto Scan
+
+Scans for http servers on port 80 and pipes into Nikto for scanning:
+
+```sh
+nmap -p80 10.0.1.0/24 -oG - | nikto.pl -h -
+```
+
+Scans for http/https servers on port 80, 443 and pipes into Nikto for scanning:
+
+```sh
+nmap -p80,443 10.0.1.0/24 -oG - | nikto.pl -h -
+```
+

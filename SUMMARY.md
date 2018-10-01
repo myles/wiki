@@ -4,6 +4,8 @@
 -   [Meta](meta.md)
     -   [License](LICENSE.md)
 -   [Setup](/setup.md)
+-   [Android](/android.md)
+    -   [Fire OS](/android/fire-os.md)
 -   [Pentesting](pentesting.md)
     -   [nmap Cheat Sheet](pentesting/nmap.md)
     -   [WordPress](pentesting/wordpress.md)

@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Meta](meta.md)
+  * [License](LICENSE.md)
 * [Pentesting](/pentesting.md)
   * [nmap Cheat Sheet](/pentesting/nmap.md)
   * [WordPress](/pentesting/wordpress.md)

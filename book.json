@@ -1,4 +1,7 @@
 {
+  "root": "",
+  "title": "Myles' Wiki",
+  "author": "Myles Braithwaite",
   "plugins": [
     "edit-link",
     "rss"

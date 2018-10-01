@@ -9,7 +9,6 @@
     -   [WordPress](pentesting/wordpress.md)
 -   [Programming](programming.md)
     -   [Python](programming/python.md)
-        -   [Pandas](programming/python/pandas.md)
     -   [Static Website Generators](programming/static-websites.md)
     -   [Editors](programming/editors.md)
         - [Visual Studio Code](programming/editors/vscode.md)

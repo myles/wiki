@@ -3,10 +3,17 @@
   "title": "Myles' Wiki",
   "author": "Myles Braithwaite",
   "plugins": [
+    "algolia",
     "edit-link",
     "rss"
   ],
   "pluginsConfig": {
+    "algolia": {
+      "index": "documents",
+      "applicationID": "PMGLYE37G3",
+      "publicKey": "5de5c3bc27e84a4b30f7d90d10b9245c",
+      "freeAccount": "true"
+    },
     "edit-link": {
       "base": "https://github.com/myles/wiki/edit/master/",
       "label": "Edit"

@@ -1,5 +1,6 @@
 # Summary
 
+<<<<<<< HEAD
 * [Introduction](README.md)
 * [Meta](meta.md)
   * [License](LICENSE.md)
@@ -14,3 +15,19 @@
   * [Static Website Generators](programming/static-websites.md)
   * [Editors](programming/editors.md)
 
+=======
+-   [Introduction](README.md)
+-   [Meta](meta.md)
+    -   [License](LICENSE.md)
+-   [Setup](/setup.md)
+-   [Android](/android.md)
+    -   [Fire OS](/android/fire-os.md)
+-   [Pentesting](pentesting/README.md)
+    -   [nmap Cheat Sheet](pentesting/nmap.md)
+    -   [WordPress](pentesting/wordpress.md)
+-   [Programming](programming/README.md)
+    -   [Python](programming/python/README.md)
+    -   [Static Website Generators](programming/static-websites.md)
+-   [Text Editors](text-editors/README.md)
+    - [Visual Studio Code](text-editors/vscode.md)
+>>>>>>> :bug: Updating some links.

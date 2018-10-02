@@ -1,3 +1,4 @@
 # Text Editors
 
--   [Visual Studio Code](/text-editors/vscode.md)
+* [Visual Studio Code](vscode.md)
+

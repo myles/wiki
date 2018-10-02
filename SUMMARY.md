@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Myles' Wiki 📚](README.md)
 * [Meta](meta/README.md)
   * [License](meta/license.md)
 * [Setup](setup.md)

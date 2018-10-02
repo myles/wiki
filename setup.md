@@ -1,6 +1,8 @@
-# Setup
+---
+description: 'The list of the applications, tools, and services that I''m currently using.'
+---
 
-List of applications, tools, and services that I'm currently using.
+# Setup
 
 ## Applications
 

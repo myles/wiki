@@ -11,7 +11,7 @@
 * [Pentesting](pentesting/README.md)
   * [nmap Cheat Sheet](pentesting/nmap.md)
   * [WordPress](pentesting/wordpress.md)
-* [Programming](programming/README.md)
+* [Computer Science](programming/README.md)
   * [CSS](programming/css.md)
   * [Python](programming/python/README.md)
     * [Celery](programming/python/celery.md)
@@ -19,4 +19,3 @@
   * [Static Website Generators](programming/static-websites.md)
 * [Text Editors](text-editors/README.md)
   * [Visual Studio Code](text-editors/vscode.md)
-

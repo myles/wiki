@@ -22,3 +22,7 @@
     -   [Static Website Generators](programming/static-websites.md)
 -   [Text Editors](text-editors/README.md)
     -   [Visual Studio Code](text-editors/vscode.md)
+-   [Lists](lists/README.md)
+    -   [Books](lists/books.md)
+    -   [Films](lists/films.md)
+    -   [TV Shows](lists/tv-shows.md)

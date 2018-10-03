@@ -4,6 +4,7 @@
     "gitbook-plugin-algolia": "1.0.7",
     "gitbook-plugin-edit-link": "2.0.2",
     "gitbook-plugin-rss": "3.0.2",
+    "gitbook-plugin-todo": "^0.1.3",
     "remark-cli": "5.0.0",
     "remark-preset-lint-recommended": "3.0.2"
   },

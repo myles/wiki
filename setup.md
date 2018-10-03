@@ -1,6 +1,6 @@
----
-description: 'The list of the applications, tools, and services that I''m currently using.'
----
+* * *
+
+## description: 'The list of the applications, tools, and services that I''m currently using.'
 
 # Setup
 
@@ -25,4 +25,3 @@ A GUI Git client and text editor for iOS.
 ### [TweetBot](https://tapbots.com/tweetbot/)
 
 My favorite Twitter client for iOS and macOS.
-

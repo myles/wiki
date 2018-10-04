@@ -1,5 +1,3 @@
 language: node_js
-script:
-  - npm run-script lint
-  - npm run-script build
-
+script: npm run-script build
+after_success: npm run-script lint

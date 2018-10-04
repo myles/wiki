@@ -1,5 +1,7 @@
 {
   "plugins": [
-    "preset-lint-recommended"
+    "preset-lint-recommended",
+    "lint-no-dead-urls",
+    "validate-links"
   ]
 }

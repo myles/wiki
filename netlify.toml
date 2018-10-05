@@ -4,4 +4,3 @@ ID = "myles-wiki"
 [build]
   publish = "_book/"
   command = "npm run-script build"
-

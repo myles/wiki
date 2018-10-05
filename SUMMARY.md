@@ -3,7 +3,7 @@
 -   [Introduction](README.md)
 -   [Meta](meta/README.md)
     -   [License](LICENSE.md)
--   [Setup](setup.md)
+-   [Setup](setup/README.md)
 -   [Android](android/README.md)
     -   [Fire OS](android/fire-os.md)
 -   [Computer Science](comp-sci/README.md)
@@ -26,3 +26,4 @@
     -   [Books](lists/books.md)
     -   [Films](lists/films.md)
     -   [TV Shows](lists/tv-shows.md)
+-   [UNIX](unix/README.md)

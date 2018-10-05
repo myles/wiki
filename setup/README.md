@@ -16,10 +16,6 @@ For tracking PDFs and other documents in macOS and iOS.
 
 A GUI Git client for macOS and Windows.
 
-### [Working Copy](https://workingcopyapp.com/)
-
-A GUI Git client and text editor for iOS.
-
 ### [TweetBot](https://tapbots.com/tweetbot/)
 
 My favorite Twitter client for iOS and macOS.

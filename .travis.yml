@@ -1,3 +1,4 @@
 language: node_js
-script: npm run-script lint
-
+node_js: "4"
+script: npm run-script build
+after_success: npm run-script lint

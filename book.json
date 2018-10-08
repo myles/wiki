@@ -5,7 +5,8 @@
   "plugins": [
     "algolia",
     "edit-link",
-    "rss"
+    "rss",
+    "todo"
   ],
   "pluginsConfig": {
     "algolia": {

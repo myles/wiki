@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    "preset-lint-recommended",
+    "validate-links"
+  ]
+}

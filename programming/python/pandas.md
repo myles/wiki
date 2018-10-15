@@ -6,7 +6,19 @@
 
 ## Snippets
 
-### Connect to a SQL Database
+### Connect to a SQLite database
+
+```python
+import pandas as pd
+import sqlite
+
+conn = sqlite3.connect("database.sqlite")
+df = pd.read_sql_query("SELECT * FROM table_name;", conn)
+
+df.head()
+```
+
+### Using a SQLAlchemy engine to connect to a database
 
 ```python
 import pandas as pd
@@ -20,22 +32,26 @@ df = pd.read_sql_query("SELECT * FROM table;", con=engine)
 df.head()
 ```
 
-#### SQLite
+### Python compatible column names with slugify
 
-```python
-import pandas as pd
-import sqlite
-
-conn = sqlite3.connect("database.sqlite")
-df = pd.read_sql_query("SELECT * FROM table_name;", conn)
-
-df.head()
-```
-
-### Python compatible column names with [slugify](https://pypi.python.org/pypi/awesome-slugify)
+Usually I'm dealing with data from external sources that don't have pretty columns names. I like to use [slugify](https://pypi.python.org/pypi/awesome-slugify) to convert them to Python compatible keys.
 
 ```python
 from slugify import slugify
 
 df.columns = [slugify(c, separator="_", to_lower=True) for c in df.columns]
 ```
+
+### Pandas/SQL Rosetta Stone
+
+#### `IN`
+
+```python
+# City is ether Toronto or Richmond Hill:
+df[df['city'].isin(['Toronto', 'Richmond Hill'])]
+
+# City is not Markdale or Oakville:
+df[~df['city'].isin(['Markdale', 'Oakville'])]
+```
+
+See the pandas documentation for more information on [`pandas.DataFrame.isin`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.isin.html).

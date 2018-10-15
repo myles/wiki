@@ -24,6 +24,20 @@
       "author": "Myles Braithwaite",
       "site_url": "https://wiki.mylesb.ca/",
       "feed_url": "feed.xml"
+    },
+    "autocover": {
+      "font": {
+        "size": null,
+        "family": "Impact",
+        "color": "#fff"
+      },
+      "size": {
+        "w": "1800",
+        "h": "2360"
+      },
+      "background": {
+        "color": "#09f"
+      }
     }
   }
 }

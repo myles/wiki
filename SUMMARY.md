@@ -1,8 +1,6 @@
 # Table of contents
 
 -   [Introduction](README.md)
--   [Meta](meta/README.md)
-    -   [License](LICENSE.md)
 -   [Setup](setup/README.md)
 -   [Android](android/README.md)
     -   [Fire OS](android/fire-os.md)
@@ -27,3 +25,5 @@
     -   [Films](lists/films.md)
     -   [TV Shows](lists/tv-shows.md)
 -   [UNIX](unix/README.md)
+-   [Meta](meta/README.md)
+    -   [License](LICENSE.md)

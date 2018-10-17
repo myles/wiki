@@ -18,6 +18,7 @@
         -   [Celery](programming/python/celery.md)
         -   [Pandas](programming/python/pandas.md)
     -   [Static Website Generators](programming/static-websites.md)
+-   [Startup](startup/README.md)
 -   [Text Editors](text-editors/README.md)
     -   [Visual Studio Code](text-editors/vscode.md)
 -   [Lists](lists/README.md)

@@ -1,4 +1,6 @@
-# Pandas
+# pandas
+
+<dfn>pandas</dfn> is a [Python](README.md) library for data manipulation and analysis.
 
 ## Notes
 
@@ -44,7 +46,11 @@ df.columns = [slugify(c, separator="_", to_lower=True) for c in df.columns]
 
 ### Pandas/SQL Rosetta Stone
 
-#### `IN`
+#### `IN` / `pandas.DataFrame.isin`
+
+```sql
+SELECT * FROM table WHERE city IN ("Toronto", "Richmond Hill");
+```
 
 ```python
 # City is ether Toronto or Richmond Hill:

@@ -14,6 +14,7 @@
   "scripts": {
     "build": "gitbook build",
     "lint": "remark .",
+    "run": "gitbook serve",
     "build-pdf": "gitbook pdf ./ ./myles-wiki.pdf",
     "build-epub": "gitbook epub ./ ./myles-wiki.epub",
     "build-mobi": "gitbook mobi ./ ./myles-wiki.mobi"

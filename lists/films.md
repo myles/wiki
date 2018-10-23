@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Film to Watch 📽
 
 -   [ ] Leave No Trace (2018)

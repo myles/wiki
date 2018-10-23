@@ -1,4 +1,4 @@
-# Terminal
+# UNIX
 
 ## Applications
 

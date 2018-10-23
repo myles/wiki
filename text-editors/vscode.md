@@ -1,6 +1,6 @@
 # Visual Studio Code
 
-[Visual Studio Code](https://code.visualstudio.com/) is a text editor.
+<dfn>Visual Studio Code</dfn> is a text editor for Linux, Windows, and macOS.
 
 ## Links
 

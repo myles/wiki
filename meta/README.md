@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Meta
 
 After seeing [Nikita Voloboev](https://nikitavoloboev.xyz/)'s [GitBook](https://wiki.nikitavoloboev.xyz/) and [other people who have public a knowledge repository](https://github.com/RichardLitt/meta-knowledge#repositories) I was inspired to start my own.

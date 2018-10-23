@@ -6,7 +6,8 @@
     "algolia",
     "edit-link",
     "rss",
-    "todo"
+    "todo",
+    "json"
   ],
   "pluginsConfig": {
     "algolia": {
@@ -24,6 +25,9 @@
       "author": "Myles Braithwaite",
       "site_url": "https://wiki.mylesb.ca/",
       "feed_url": "feed.xml"
+    },
+    "json": {
+      "output": "_book/book.json"
     },
     "autocover": {
       "font": {

@@ -1,5 +1,7 @@
 # Postgres
 
+<dfn>Postgres</dfn> is an object-relational database management system with an emphasis on extensibility and standards compliance.
+
 ## Links
 
 -   [TicTacToe in SQL](https://bitbucket.org/snippets/mariusz-krynski/bedBGK/tic-tac-toesql)

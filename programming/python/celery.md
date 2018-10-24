@@ -1,6 +1,6 @@
 # Celery
 
-<dfn>pandas</dfn> is a [Python](README.md) library for asynchronous task queue or job queue which is based on distributed message passing.
+<dfn>Celery</dfn> is a [Python](README.md) library for asynchronous task queue or job queue which is based on distributed message passing.
 
 ## Links
 

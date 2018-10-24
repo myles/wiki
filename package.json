@@ -4,7 +4,7 @@
     "gitbook-plugin-algolia": "1.0.7",
     "gitbook-plugin-autocover": "2.0.1",
     "gitbook-plugin-edit-link": "2.0.2",
-    "gitbook-plugin-json": "^1.0.1",
+    "gitbook-plugin-json": "1.0.1",
     "gitbook-plugin-rss": "3.0.2",
     "gitbook-plugin-todo": "0.1.3",
     "remark-cli": "6.0.0",

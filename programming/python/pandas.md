@@ -2,6 +2,10 @@
 
 <dfn>pandas</dfn> is a [Python](README.md) library for data manipulation and analysis.
 
+## Links
+
+*   [A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/), by Jay Alammar
+
 ## Notes
 
 -   [`pandas.io.json.json_normalize`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html) is a function to _normalize_ structured JSON into a flat `dataframe`. Useful for working with data that comes from an JSON API.

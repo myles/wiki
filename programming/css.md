@@ -1,5 +1,11 @@
 # CSS
 
+Cascading Style Sheets (<dfn>CSS</dfn>) is a style sheet language used for describing the presentation of a document written in a markup language like HTML.
+
+## Framework
+
+-   [Spectre.css](https://picturepan2.github.io/spectre/) - A lightweight, responsive, and modern CSS framework - [🐙](https://github.com/picturepan2/spectre "Spectre.css on GitHub")
+
 ## Link
 
 -   [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)

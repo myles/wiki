@@ -2,8 +2,8 @@
 
 ## Books
 
--   [Writing An Interpreter In Go](https://interpreterbook.com/) by Thorsten Ball
 -   [Writing A Compiler in Go](https://compilerbook.com/) by Thorsten Ball
+-   [Writing An Interpreter In Go](https://interpreterbook.com/) by Thorsten Ball
 
 ## Libraries
 

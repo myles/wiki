@@ -1,6 +1,6 @@
 # iOS Applications
 
-Applications that I am currently using on [iOS](ios/README.md).
+Applications that I am currently using on [iOS](../ios/README.md).
 
 ## [Working Copy](https://workingcopyapp.com/)
 

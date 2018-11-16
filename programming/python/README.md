@@ -16,3 +16,4 @@
 ## Links
 
 -   [Dive into Machine Learning](https://akashgupta299.gitbooks.io/dive-into-ml/content/)
+-   [My Python Development Environment](https://jacobian.org/2018/feb/21/python-environment-2018/) by Jacob Kaplan-Moss, 21 February 2018.

@@ -31,42 +31,50 @@ def sort_links(lines):
             last_indent = None
 
     return [
-        "".join(sorted(block))
+        "\n".join(sorted(block, key=lambda x: x[5:]))
         for block in blocks
     ]
 
 
 class TestSortLinks(unittest.TestCase):
 
+    maxDiff = None
+
     def setUp(self):
-        self.example = """# Heading
+        self.example = [
+            "# Heading",
+            "",
+            "This is the <dfn>defninition</dfn>.",
+            "",
+            "## Links",
+            "",
+            "-   [B Link](https://example.com/)",
+            "-   [A Link](https://example.com/) by First Last, 29 Jan 2018.",
+            "-   [C Link](https://example.com/)",
+            "-   [A1 Link](https://example.com/)",
+            "-   This is just a some text",
+            "-   [0 Link](https://example.com/) by First Last, 29 Jan 2018.",
+        ]
 
-This is the <dfn>defninition</dfn>.
-
-## Links
-
-*   [B Link](https://example.com/)
--   [A Link](https://example.com/) by First Last, 29 January 2018.
-- [C Link](https://example.com/)
-* [A1 Link](https://example.com/)
--   This is just a some text
--   [0 Link](https://example.com/) by First Last, 29 January 2018."""
-
-        self.answer = """# Heading
-
-This is the <dfn>defninition</dfn>.
-
-## Links
-
--   [A Link](https://example.com/) by First Last, 29 January 2018.
-* [A1 Link](https://example.com/)
-*   [B Link](https://example.com/)
-- [C Link](https://example.com/)
--   This is just a some text
--   [0 Link](https://example.com/) by First Last, 29 January 2018."""
+        self.answer = [
+            "# Heading",
+            "",
+            "This is the <dfn>defninition</dfn>.",
+            "",
+            "## Links",
+            "",
+            "-   [A Link](https://example.com/) by First Last, 29 Jan 2018.",
+            "-   [A1 Link](https://example.com/)",
+            "-   [C Link](https://example.com/)",
+            "-   [B Link](https://example.com/)",
+            "-   This is just a some text",
+            "-   [0 Link](https://example.com/) by First Last, 29 Jan 2018.",
+        ]
 
     def test_sort(self):
-        assert sort_links(self.example.split('\n')) == self.answer
+        blocks = sort_links(self.example)
+        print(blocks)
+        self.assertEqual(blocks, self.answer)
 
 
 @click.command()

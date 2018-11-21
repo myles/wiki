@@ -1,1 +1,17 @@
 # Programming
+
+Computer <dfn>programming</dfn> is the act of instructing computers to perform tasks.
+
+## Languages
+
+-   [CSS](css.md)
+-   [Go](go.md)
+-   [JavaScript](javascript.md)
+-   [PHP](php/README.md)
+-   [Python](python/README.md)
+
+## See Also
+
+-   [Methodology](methodology.md)
+-   [Static Website Generators](static-websites.md)
+-   [Text Editors](../text-editors/README.md)

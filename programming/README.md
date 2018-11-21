@@ -12,6 +12,7 @@ Computer <dfn>programming</dfn> is the act of instructing computers to perform t
 
 ## See Also
 
+-   [Computer Science](../comp-sci/README.md)
 -   [Methodology](methodology.md)
 -   [Static Website Generators](static-websites.md)
 -   [Text Editors](../text-editors/README.md)

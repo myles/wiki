@@ -6,6 +6,7 @@
 
 -   [cleanco](https://github.com/psolin/cleanco) - Cleans companies names by stripping away terms indicating organization type - [🐍](https://pypi.org/project/cleanco/ "cleanco on PyPi")
 -   [Camelot](https://camelot-py.readthedocs.io/en/master/) - PDF Table Extraction for Humans - [📣](https://blog.socialcops.com/technology/engineering/camelot-python-library-pdf-data/ "Announcing Camelot, a Python Library to Extract Tabular Data from PDFs") [🐙](https://github.com/socialcopsdev/camelot/ "Camelot on GitHub") [🐍](https://pypi.org/project/camelot-py/ "Camelot on PyPi")
+-   [lab_getting_started.py](http://blog.varunajayasiri.com/ml/lab/lab_getting_started.html) - Lets you organize TensorFlow machine learning projects
 
 ### Data Science
 

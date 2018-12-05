@@ -5,6 +5,9 @@
 ## Libraries
 
 -   [Camelot](https://camelot-py.readthedocs.io/en/master/) - PDF Table Extraction for Humans - [📣](https://blog.socialcops.com/technology/engineering/camelot-python-library-pdf-data/ "Announcing Camelot, a Python Library to Extract Tabular Data from PDFs") [🐙](https://github.com/socialcopsdev/camelot/ "Camelot on GitHub") [🐍](https://pypi.org/project/camelot-py/ "Camelot on PyPi")
+-   [dataset](https://dataset.readthedocs.io/en/latest/index.html) - Databases
+    for lazy people. - [🐙](https://github.com/pudo/dataset "dataset on GitHub")
+    [🐍](https://pypi.org/project/dataset/ "dataset on PyPi")
 -   [lab_getting_started.py](http://blog.varunajayasiri.com/ml/lab/lab_getting_started.html) - Lets you organize TensorFlow machine learning projects
 -   [cleanco](https://github.com/psolin/cleanco) - Cleans companies names by stripping away terms indicating organization type - [🐍](https://pypi.org/project/cleanco/ "cleanco on PyPi")
 
@@ -19,3 +22,5 @@
 -   [Dive into Machine Learning](https://akashgupta299.gitbooks.io/dive-into-ml/content/)
 -   [My Python Development Environment](https://jacobian.org/2018/feb/21/python-environment-2018/) by Jacob Kaplan-Moss, 21 February 2018.
 -   [Working efficiently with JupyterLab Notebooks](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/) by Florian Wilhelm, 8 November 2018.
+-   [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of
+    surprising Python snippets and lesser-known features.

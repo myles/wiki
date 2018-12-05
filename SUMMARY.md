@@ -18,6 +18,7 @@
     -   [WordPress](pentesting/wordpress.md)
 -   [Programming](programming/README.md)
     -   [CSS](programming/css.md)
+    -   [Data Science](programming/data-science.md)
     -   [Go](programming/go.md)
     -   [JavaScript](programming/javascript.md)
     -   [Methodology](programming/methodology.md)

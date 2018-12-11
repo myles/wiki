@@ -13,6 +13,7 @@
 -   [Graphic Design](graphic-design/README.md)
     -   [Adobe Illustrator](graphic-design/adobe-illustrator.md)
 -   [iOS](ios/README.md)
+-   [Linux](linux/README.md)
 -   [Pentesting](pentesting/README.md)
     -   [nmap Cheat Sheet](pentesting/nmap.md)
     -   [WordPress](pentesting/wordpress.md)

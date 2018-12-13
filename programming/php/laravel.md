@@ -4,4 +4,5 @@
 
 ## Links
 
-*   [Building a realtime dashboard powered by Laravel and Vue](https://murze.be/building-a-realtime-dashboard-powered-by-laravel-and-vue-2017-edition) by Freek Van der Herten, 21 June 2017
+-   [Building a realtime dashboard powered by Laravel and Vue](https://murze.be/building-a-realtime-dashboard-powered-by-laravel-and-vue-2017-edition) by Freek Van der Herten, 21 June 2017
+-   [Soft Deleting Parent & Child Models in Eloquent Laravel 5](https://medium.com/teknomuslim/soft-deleting-parent-child-models-in-eloquent-laravel-5-dc05a29133bf) by Didik Tri Susanto, 7 August 2016

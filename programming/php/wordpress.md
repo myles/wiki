@@ -8,3 +8,6 @@
 -   [WP-Gistpen](https://wordpress.org/plugins/wp-gistpen/) - a self-hosted
     alternative to putting your code snippets on GitHub Gist.
 
+## See Also
+
+-   [Pentest WordPress with Metasploit](../../pentesting/metasploit.md#wordpress)

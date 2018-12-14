@@ -2,6 +2,10 @@
 
 <dfn>pandas</dfn> is a [Python](README.md) library for data manipulation and analysis.
 
+## Libaries
+
+-   [Pandas Bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) a Bokeh plotting backend for Pandas and GeoPandas.
+
 ## Links
 
 *   [A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/) by Jay Alammar, 29 October 2018.

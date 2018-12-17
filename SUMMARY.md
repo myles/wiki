@@ -2,6 +2,10 @@
 
 -   [Introduction](README.md)
 -   [Setup](setup/README.md)
+    -   [Android](setup/android.md)
+    -   [iOS](setup/ios.md)
+    -   [macOS](setup/macos.md)
+    -   [Windows](setup/windows.md)
 -   [Android](android/README.md)
     -   [Fire OS](android/fire-os.md)
 -   [Computer Science](comp-sci/README.md)

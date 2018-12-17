@@ -10,6 +10,8 @@
     [🐍](https://pypi.org/project/dataset/ "dataset on PyPi")
 -   [lab_getting_started.py](http://blog.varunajayasiri.com/ml/lab/lab_getting_started.html) - Lets you organize TensorFlow machine learning projects
 -   [cleanco](https://github.com/psolin/cleanco) - Cleans companies names by stripping away terms indicating organization type - [🐍](https://pypi.org/project/cleanco/ "cleanco on PyPi")
+-   [yaps](https://ibm.github.io/yaps/) - a surface language for programming Stan models using python syntax - [🐙](https://github.com/ibm/yaps "yaps on GitHub")
+[🐍](https://pypi.org/project/yaps/ "yaps on PyPi")
 
 ### Data Science
 

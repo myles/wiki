@@ -3,6 +3,7 @@
 ## Applications
 
 -   [terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images.
+-   [tmux-cssh](https://github.com/dennishafemann/tmux-cssh) - a sets of comfortable and easy to use functionality, clustering and synchronizing virtual tmux-sessions.
 
 ## Links
 

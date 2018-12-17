@@ -16,6 +16,7 @@
 -   [datacompy](https://capitalone.github.io/datacompy/) - Pandas and Spark DataFrame comparison for humans - [🐙](https://github.com/capitalone/datacompy "datacompy on GitHub")  [🐍](https://pypi.org/project/datacompy' "datacompy on PyPi")
 -   [intake](https://intake.readthedocs.io/en/latest/index.html) - A plugin system for loading your data and making data catalogs - [🐙](https://github.com/ContinuumIO/intake "intake") [🐍](https://pypi.org/project/intake' "intake on PyPi")
 -   [locopy](https://capitalone.github.io/Data-Load-and-Copy-using-Python/) - Loading/Unloading to Amazon Redshift - [🐙](https://github.com/capitalone/Data-Load-and-Copy-using-Python "locopy on GitHub") [🐍](https://pypi.org/project/locopy' "locopy on PyPi")
+-   [vaex](https://docs.vaex.io/en/latest/) - out-of-core DataFrames for Python, visualize and explore big tabular data at a billion rows per second - [🐙](https://github.com/vaexio/vaex "vaex on GitHub") [🐍](https://pypi.org/project/vaex' "vaex on PyPi")
 
 ## Links
 

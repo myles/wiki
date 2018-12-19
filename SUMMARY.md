@@ -34,6 +34,7 @@
     -   [Python](programming/python/README.md)
         -   [Celery](programming/python/celery.md)
         -   [Pandas](programming/python/pandas.md)
+        -   [Useful Regular Expression](programming/python/regexes.md)
     -   [Static Website Generators](programming/static-websites.md)
 -   [Startup](startup/README.md)
 -   [Text Editors](text-editors/README.md)

@@ -1,6 +1,6 @@
-# Useful Regular expression
+# Useful Regular Expression
 
-This is a list of useful regular expression.
+This is a list of useful regular expression I find on the interent.
 
 ## Match an email address
 

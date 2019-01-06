@@ -2,13 +2,14 @@
 
 A list of the applications, tools, and services that I'm currently using.
 
--   [Android][1]
--   [iOS][2]
--   [macOS][3]
--   [Windows][4]
+-   [What’s in my bag][1]
+-   [Android][2]
+-   [iOS][3]
+-   [macOS][4]
+-   [Windows][5]
 
-
-[1]:	android.md
-[2]:	ios.md
-[3]:	macos.md
-[4]:	windows.md
+[1]:	bag.md "What stuff do I carry in my bag"
+[2]:	android.md
+[3]:	ios.md
+[4]:	macos.md
+[5]:	windows.md

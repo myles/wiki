@@ -1,6 +1,7 @@
 # Table of contents
 
 -   [Introduction](README.md)
+-   [Status](status.md)
 -   [Setup](setup/README.md)
     -   [Android](setup/android.md)
     -   [iOS](setup/ios.md)

@@ -4,20 +4,26 @@ search: false
 
 # iOS Applications
 
-Applications that I am currently using on [iOS](../ios/README.md).
+Applications that I am currently using on [iOS][1].
 
-## [Working Copy](https://workingcopyapp.com/)
+## Code
 
-A GUI Git client for iOS I use to edit and deploy different Git repositories.
+- [Working Copy][2] - a Git client for iOS I use to edit and deploy different Git repositories.
+- [GitHawk][3] - a GitHub client for looking up repos and issues.
 
-## [DEVONThink To Go](https://www.devontechnologies.com/products/devonthink/devonthink-to-go.html)
+## Productivity
 
-For tracking PDFs and other documents in macOS and iOS.
+- [Bear][4] - for quick note tacking and task lists.
+- [DEVONThink To Go][5] - for reading, storing, and indexing PDFs and other documents in iOS.
 
-## [TweetBot](https://tapbots.com/tweetbot/)
+## Social
 
-My favorite Twitter client for iOS and macOS.
+- [TweetBot][6] - my favorite Twitter client for iOS and macOS.
+- Instagram - favourite social network.
 
-## [Bear](https://bear.app/)
-
-Note and ToDo list application for macOS and iOS.
+[1]:	../ios/README.md
+[2]:	https://workingcopyapp.com/
+[3]:	http://githawk.com/
+[4]:	https://bear.app/
+[5]:	https://www.devontechnologies.com/products/devonthink/devonthink-to-go.html
+[6]:	https://tapbots.com/tweetbot/

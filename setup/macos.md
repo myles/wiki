@@ -4,18 +4,20 @@ search: false
 
 # macOS Setup
 
-## [Tower](https://www.git-tower.com)
+## Development
 
-A GUI Git client for macOS and Windows.
+- [Tower][1] - a GUI Git client for one I get annoyed with the command line. 
 
-## [DEVONThink Pro Office](https://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html)
+## Productivity
 
-For tracking PDFs and other documents in macOS and iOS.
+- [Bear][2] - for quick note tacking and task lists.
+- [DEVONThink Pro Office][3] - for reading, storing, and indexing PDFs and other documents in macOS.
 
-## [TweetBot](https://tapbots.com/tweetbot/)
+## Social
 
-My favorite Twitter client for iOS and macOS.
+- [TweetBot][4] - my favourite Twitter client for iOS and macOS.
 
-## [Bear](https://bear.app/)
-
-Note and ToDo list application for macOS and iOS.
+[1]:	https://www.git-tower.com
+[2]:	https://bear.app/
+[3]:	https://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html
+[4]:	https://tapbots.com/tweetbot/

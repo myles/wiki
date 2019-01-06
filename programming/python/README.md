@@ -12,6 +12,7 @@
 -   [cleanco](https://github.com/psolin/cleanco) - Cleans companies names by stripping away terms indicating organization type - [🐍](https://pypi.org/project/cleanco/ "cleanco on PyPi")
 -   [yaps](https://ibm.github.io/yaps/) - a surface language for programming Stan models using python syntax - [🐙](https://github.com/ibm/yaps "yaps on GitHub")
 [🐍](https://pypi.org/project/yaps/ "yaps on PyPi")
+-   [py-spy](https://github.com/benfred/py-spy) - sampling profiler for Python programs
 
 ### Data Science
 

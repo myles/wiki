@@ -4,6 +4,7 @@
 -   [Status](status.md)
 -   [Setup](setup/README.md)
     -   [Android](setup/android.md)
+    -   [Bag](setup/bag.md)
     -   [iOS](setup/ios.md)
     -   [macOS](setup/macos.md)
     -   [Windows](setup/windows.md)

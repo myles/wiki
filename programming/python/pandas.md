@@ -1,18 +1,20 @@
 # pandas
 
-<dfn>pandas</dfn> is a [Python](README.md) library for data manipulation and analysis.
+<dfn>pandas</dfn> is a [Python][1] library for data manipulation and analysis.
 
 ## Libaries
 
--   [Pandas Bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) a Bokeh plotting backend for Pandas and GeoPandas.
+-   [Pandas Bokeh][2] a Bokeh plotting backend for Pandas and GeoPandas.
 
 ## Links
 
-*   [A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/) by Jay Alammar, 29 October 2018.
+*   [A Gentle Visual Intro to Data Analysis in Python Using Pandas][3] by Jay Alammar, 29 October 2018.
+* [Improve panda’s Excel Output][4] by Chris Moffitt, 8 April 2015. 
+* [ Building a Repeatable Data Analysis Process with Jupyter Notebooks ][5] by Chris Moffitt, 20 November 2018. 
 
 ## Notes
 
--   [`pandas.io.json.json_normalize`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html) is a function to _normalize_ structured JSON into a flat `dataframe`. Useful for working with data that comes from an JSON API.
+-   [`pandas.io.json.json_normalize`][6] is a function to _normalize_ structured JSON into a flat `dataframe`. Useful for working with data that comes from an JSON API.
 
 ## Snippets
 
@@ -44,7 +46,7 @@ df.head()
 
 ### Python compatible column names with slugify
 
-Usually I'm dealing with data from external sources that don't have pretty columns names. I like to use [slugify](https://pypi.python.org/pypi/awesome-slugify) to convert them to Python compatible keys.
+Usually I'm dealing with data from external sources that don't have pretty columns names. I like to use [slugify][7] to convert them to Python compatible keys.
 
 ```python
 from slugify import slugify
@@ -68,4 +70,13 @@ df[df['city'].isin(['Toronto', 'Richmond Hill'])]
 df[~df['city'].isin(['Markdale', 'Oakville'])]
 ```
 
-See the pandas documentation for more information on [`pandas.DataFrame.isin`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.isin.html).
+See the pandas documentation for more information on [`pandas.DataFrame.isin`][8].
+
+[1]:	README.md
+[2]:	https://github.com/PatrikHlobil/Pandas-Bokeh
+[3]:	https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/
+[4]:	http://pbpython.com/improve-pandas-excel-output.html
+[5]:	http://pbpython.com/notebook-process.html
+[6]:	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html
+[7]:	https://pypi.python.org/pypi/awesome-slugify
+[8]:	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.isin.html

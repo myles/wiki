@@ -38,6 +38,7 @@
         -   [Pandas](programming/python/pandas.md)
         -   [Useful Regular Expression](programming/python/regexes.md)
     -   [Static Website Generators](programming/static-websites.md)
+-   [Selfhosted](selfhosted/README.md)
 -   [Startup](startup/README.md)
 -   [Text Editors](text-editors/README.md)
     -   [Visual Studio Code](text-editors/vscode.md)

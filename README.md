@@ -8,5 +8,5 @@ search: false
 
 * * *
 
-[![](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons Licence")](https://wiki.mylesb.ca/meta/license.html "Creative Commons Attribution 4.0 International License")
+[![](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons Licence")](https://wiki.mylesb.ca/license.html "Creative Commons Attribution 4.0 International License")
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

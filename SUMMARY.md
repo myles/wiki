@@ -35,6 +35,8 @@
         -   [WordPress](programming/php/wordpress.md)
     -   [Python](programming/python/README.md)
         -   [Celery](programming/python/celery.md)
+        -   [Django](programming/python/django.md)
+        -   [Jupyter](programming/python/jupyter.md)
         -   [Pandas](programming/python/pandas.md)
         -   [Useful Regular Expression](programming/python/regexes.md)
     -   [Static Website Generators](programming/static-websites.md)

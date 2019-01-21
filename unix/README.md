@@ -8,3 +8,4 @@
 ## Links
 
 -   [Practical Use of GRUB's DSL](https://www.gilesorr.com/grubdsl/) by Giles Orr, 15 October 2018 - with the examples inexplicably left out of the GRUB documentation.
+-   [For the Love of Pipes](https://blog.jessfraz.com/post/for-the-love-of-pipes/) by Jessie Frazelle, 21 January 2019.

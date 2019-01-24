@@ -26,5 +26,5 @@
 -   [Dive into Machine Learning](https://akashgupta299.gitbooks.io/dive-into-ml/content/)
 -   [My Python Development Environment](https://jacobian.org/2018/feb/21/python-environment-2018/) by Jacob Kaplan-Moss, 21 February 2018.
 -   [Working efficiently with JupyterLab Notebooks](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/) by Florian Wilhelm, 8 November 2018.
--   [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of
-    surprising Python snippets and lesser-known features.
+-   [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
+-   [Einstein Summation in Numpy](https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/) by Olexa Bilaniuk, 4 February 2016

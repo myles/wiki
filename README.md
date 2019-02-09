@@ -2,9 +2,13 @@
 search: false
 ---
 
+![](https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif "Hello")
+
 # Myles' Wiki 📚
 
 👋, welcome to my personal wiki where I try and share everything I research and know about a variety of topics.
+
+![](https://media.giphy.com/media/3ofT5PqwDxWUXM9lXa/giphy.gif)
 
 * * *
 

@@ -19,5 +19,8 @@
     "build-pdf": "gitbook pdf ./ ./myles-wiki.pdf",
     "build-epub": "gitbook epub ./ ./myles-wiki.epub",
     "build-mobi": "gitbook mobi ./ ./myles-wiki.mobi"
+  },
+  "dependencies": {
+    "gitbook-plugin-changelog": "^1.0.1"
   }
 }

@@ -51,4 +51,5 @@
     -   [Video Games](lists/video-games.md)
 -   [UNIX](unix/README.md)
 -   [Meta](meta/README.md)
+    -   [Change log](meta/changelog.md)
     -   [License](LICENSE.md)

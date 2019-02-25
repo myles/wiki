@@ -7,9 +7,25 @@
     "edit-link",
     "rss",
     "todo",
-    "json"
+    "json",
+    "changelog"
   ],
   "pluginsConfig": {
+    "dateFormat": {
+      "dateFormat": "Do MMMM YYYY, h:mm:ss a",
+      "files": [
+        ".bookignore",
+        ".gitattributes",
+        ".gitignore",
+        ".remarkrc",
+        ".travis.yml",
+        "book.json",
+        "netlify.toml",
+        "package-lock.json",
+        "package.json",
+        "renovate.json"
+      ]
+    },
     "algolia": {
       "index": "documents",
       "applicationID": "PMGLYE37G3",

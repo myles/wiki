@@ -1,3 +1,9 @@
+---
+search: false
+---
+
+# Change log
+
 {% changelog %}
     {% date %}
     {% message %}

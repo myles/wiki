@@ -21,6 +21,6 @@
     "build-mobi": "gitbook mobi ./ ./myles-wiki.mobi"
   },
   "dependencies": {
-    "gitbook-plugin-changelog": "^1.0.1"
+    "gitbook-plugin-changelog": "1.0.1"
   }
 }

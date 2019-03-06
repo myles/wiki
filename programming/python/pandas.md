@@ -8,9 +8,9 @@
 
 ## Links
 
-*   [A Gentle Visual Intro to Data Analysis in Python Using Pandas][3] by Jay Alammar, 29 October 2018.
-* [Improve panda’s Excel Output][4] by Chris Moffitt, 8 April 2015. 
-* [ Building a Repeatable Data Analysis Process with Jupyter Notebooks ][5] by Chris Moffitt, 20 November 2018. 
+-   [A Gentle Visual Intro to Data Analysis in Python Using Pandas][3] by Jay Alammar, 29 October 2018.
+-   [Improve panda’s Excel Output][4] by Chris Moffitt, 8 April 2015.
+-   [Building a Repeatable Data Analysis Process with Jupyter Notebooks ][5] by Chris Moffitt, 20 November 2018.
 
 ## Notes
 
@@ -52,6 +52,26 @@ Usually I'm dealing with data from external sources that don't have pretty colum
 from slugify import slugify
 
 df.columns = [slugify(c, separator="_", to_lower=True) for c in df.columns]
+```
+
+### Read CSV file with all cells as strings
+
+```python
+>>> df = pd.read_csv("data/source/example.csv", dtype=str)
+>>> df.dtypes
+ID                         object
+NAME                       object
+SALARY                     object
+```
+
+### Traspose `DataFrame` and view all rows
+
+```python
+>>> with pd.option_context("display.max_rows", None):
+...    print(df.head(1).transpose())
+ID                         1
+NAME       Myles Braithwaite
+SALARY               $10,000
 ```
 
 ### Pandas/SQL Rosetta Stone

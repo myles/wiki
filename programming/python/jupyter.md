@@ -4,4 +4,4 @@
 
 ## Links
 
-*   [Building a Repeatable Data Analysis Process with Jupyter Notebooks](http://pbpython.com/notebook-process.html) by Chris Moffitt, 20 November 2018.
+-   [Building a Repeatable Data Analysis Process with Jupyter Notebooks](http://pbpython.com/notebook-process.html) by Chris Moffitt, 20 November 2018.

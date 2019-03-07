@@ -39,6 +39,7 @@
         -   [Jupyter](programming/python/jupyter.md)
         -   [Pandas](programming/python/pandas.md)
         -   [Useful Regular Expression](programming/python/regexes.md)
+        -   [Web Scraping](programming/python/web-scraping.md)
     -   [Static Website Generators](programming/static-websites.md)
 -   [Selfhosted](selfhosted/README.md)
 -   [Startup](startup/README.md)

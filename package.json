@@ -16,6 +16,7 @@
   "scripts": {
     "build": "gitbook build",
     "lint": "remark .",
+    "write-good": "write-good **/*.md",
     "run": "gitbook serve",
     "build-pdf": "gitbook pdf ./ ./myles-wiki.pdf",
     "build-epub": "gitbook epub ./ ./myles-wiki.epub",

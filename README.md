@@ -4,7 +4,7 @@ search: false
 
 # Myles' Wiki 📚
 
-![](https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif)
+![Deadpool Waving Hello](.gitbook/assets/gifs/deadpool-waving-hello.gif)
 
 👋, welcome to my personal wiki where I try and share everything I research and know about a variety of topics.
 
@@ -15,4 +15,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 * * *
 
-![](https://media.giphy.com/media/3ofT5PqwDxWUXM9lXa/giphy.gif)
+![Rory Gilmore Droping Backpacks](.gitbook/assets/gifs/droping-backpacks.gif)

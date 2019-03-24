@@ -2,6 +2,8 @@
 
 <dfn>pandas</dfn> is a [Python][1] library for data manipulation and analysis.
 
+![Panda Eating Bamboo](../../.gitbook/assets/gifs/panda-eating.gif)
+
 ## Libaries
 
 -   [Pandas Bokeh][2] a Bokeh plotting backend for Pandas and GeoPandas.

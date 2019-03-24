@@ -2,7 +2,7 @@
 
 <dfn>pandas</dfn> is a [Python][1] library for data manipulation and analysis.
 
-![Panda Eating Bamboo](../../.gitbook/assets/gifs/panda-eating.gif)
+![Panda Eating Bamboo](../../assets/gifs/panda-eating.gif)
 
 ## Libaries
 

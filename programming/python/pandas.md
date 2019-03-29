@@ -6,9 +6,10 @@
 
 ## Libaries
 
--   [Pandas Bokeh][2] a Bokeh plotting backend for Pandas and GeoPandas.
--   [jardin](https://github.com/instacart/jardin) a `pandas.DataFrame`-based ORM.
--   [PrettyPandas](https://github.com/HHammond/PrettyPandas) is a Pandas DataFrame Styler class that helps you create report quality tables.
+-   [Modin](https://modin.readthedocs.io/en/latest/) - speed up your Pandas workflows by changing a single line of code - [📣](https://rise.cs.berkeley.edu/blog/modin-pandas-on-ray-october-2018/ "Modin (Pandas on Ray)") [🐙](https://github.com/modin-project/modin/ "Modin on GitHub") [🐍](https://pypi.org/project/modin/ "Modin on PyPi")
+-   [Pandas Bokeh][2] a Bokeh plotting backend for Pandas and GeoPandas - [🐙](https://github.com/PatrikHlobil/Pandas-Bokeh "Pandas Bokeh on GitHub") [🐍](https://pypi.org/project/pandas-bokeh/ "Pandas Bokeh on PyPi")
+-   [jardin](https://jardin.readthedocs.io/en/latest/) a `pandas.DataFrame`-based ORM - [🐙](https://github.com/instacart/jardin "jardin on GitHub") [🐍](https://pypi.org/project/jardin/ "jardin on PyPi")
+-   [PrettyPandas](https://prettypandas.readthedocs.io/en/latest/) is a Pandas DataFrame Styler class that helps you create report quality tables - [🐙](https://github.com/HHammond/PrettyPandas "PrettyPandas on GitHub") [🐍](https://pypi.org/project/prettypandas/ "PrettyPandas on PyPi")
 
 ## Links
 

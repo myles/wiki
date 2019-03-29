@@ -1,5 +1,8 @@
+.Ulysses-Group.plist
+
 # Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+## Grunt intermediate storage
+## See: <http://gruntjs.com/creating-plugins#storing-task-files>
 .grunt
 
 ## Dependency directory

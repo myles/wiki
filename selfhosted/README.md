@@ -4,9 +4,15 @@
 
 ## Software
 
--   [TellForm](https://tellform.com/) - a free, opensource form builder similar to Google Forms or TypeForm - [🐙](https://github.com/tellform/tellform)
--   [Piwigo](https://piwigo.org/) - open source photo gallery software for the web - [🐙](https://github.com/Piwigo)
+-   [TellForm][1] - a free, opensource form builder similar to Google Forms or TypeForm - [🐙][2]
+-   [Piwigo][3] - open source photo gallery software for the web - [🐙][4]
 
 ## Links
 
--   [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
+-   [Awesome-Selfhosted][5]
+
+[1]:	https://tellform.com/
+[2]:	https://github.com/tellform/tellform
+[3]:	https://piwigo.org/
+[4]:	https://github.com/Piwigo
+[5]:	https://github.com/Kickball/awesome-selfhosted

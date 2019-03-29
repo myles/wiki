@@ -4,7 +4,7 @@ These are my notes on <dfn>Web Scraping in Python</dfn>
 
 ## Libraries
 
--   [Requests-HTML](https://html.python-requests.org/ "HTML Parsing for Humans") - Combines [Requests](https://python-requests.org/) and [PyQuery](https://pythonhosted.org/pyquery/) to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible - [🐙](https://github.com/kennethreitz/requests-html "Requests-HTML on GitHub") [🐍](https://pypi.org/project/requests-html/ "Requests-HTML on PyPi")
+-   [Requests-HTML][1] - Combines [Requests][2] and [PyQuery][3] to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible - [🐙][4] [🐍][5]
 
 ## Snippets
 
@@ -34,3 +34,9 @@ secret_page = session.get(
 if not secret_page.pk:
   raise Exception
 ```
+
+[1]:	https://html.python-requests.org/ "HTML Parsing for Humans"
+[2]:	https://python-requests.org/
+[3]:	https://pythonhosted.org/pyquery/
+[4]:	https://github.com/kennethreitz/requests-html "Requests-HTML on GitHub"
+[5]:	https://pypi.org/project/requests-html/ "Requests-HTML on PyPi"

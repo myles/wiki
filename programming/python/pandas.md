@@ -8,6 +8,7 @@
 
 -   [Pandas Bokeh][2] a Bokeh plotting backend for Pandas and GeoPandas.
 -   [jardin](https://github.com/instacart/jardin) a `pandas.DataFrame`-based ORM.
+-   [PrettyPandas](https://github.com/HHammond/PrettyPandas) is a Pandas DataFrame Styler class that helps you create report quality tables.
 
 ## Links
 

@@ -7,6 +7,7 @@
 ## Libaries
 
 -   [Pandas Bokeh][2] a Bokeh plotting backend for Pandas and GeoPandas.
+-   [jardin](https://github.com/instacart/jardin) a `pandas.DataFrame`-based ORM.
 
 ## Links
 

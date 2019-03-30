@@ -909,7 +909,7 @@ acorn-dynamic-import@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/acorn-dynamic-import/-/acorn-dynamic-import-4.0.0.tgz#482210140582a36b83c3e342e1cfebcaa9240948"
 
-acorn@^6.0.5, acorn@^6.1.1:
+acorn@6.1.1, acorn@^6.0.5:
   version "6.1.1"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.1.1.tgz#7d25ae05bb8ad1f9b699108e1094ecd7884adc1f"
 
@@ -7266,7 +7266,7 @@ vue@^2.5.16:
   version "2.6.10"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
 
-vuepress-dir-sidebar@^0.1.8:
+vuepress-dir-sidebar@0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/vuepress-dir-sidebar/-/vuepress-dir-sidebar-0.1.8.tgz#6d8803b5d68f971c09da44133621b53318a617ff"
   dependencies:

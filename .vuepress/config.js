@@ -1,10 +1,19 @@
 module.exports = {
   title: "Myles' Wiki",
-  plugins: ['vuepress-dir-sidebar'],
+  plugins: ["@vuepress/pwa"],
   themeConfig: {
     repo: "myles/wiki",
     editLinks: true,
     lastUpdated: 'Last Updated',
+    plugins: {
+      '@vuepress/pwa': {
+        serviceWorker: true,
+        updatePopup: {
+          message: "New content is available.",
+          buttonText: "Refresh"
+        }
+      }
+    },
     sidebar: {
       "/setup/": [
         ["/", "📚 Home"],

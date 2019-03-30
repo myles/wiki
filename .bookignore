@@ -1,8 +1,0 @@
-.bookignore
-.gitignore
-.remarkrc
-.travis.yml
-netlify.toml
-package-lock.json
-package.json
-renovate.json

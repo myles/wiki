@@ -1,8 +1,6 @@
 {
   "dependencies": {
-    "acorn": "^6.1.1",
-    "vuepress": "0.14.10",
-    "vuepress-dir-sidebar": "^0.1.8"
+    "vuepress": "0.14.10"
   },
   "devDependencies": {
     "remark-cli": "6.0.1",

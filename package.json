@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "acorn": "^6.1.1",
     "vuepress": "0.14.10"
   },
   "devDependencies": {
@@ -9,10 +10,13 @@
     "remark-validate-links": "8.0.2",
     "write-good": "1.0.1"
   },
+  "resolutions": {
+    "webpack-dev-middleware": "3.6.0"
+  },
   "scripts": {
     "build": "vuepress build .",
     "lint": "remark .",
     "write-good": "write-good **/*.md",
-    "run": "vuepress dev ."
+    "dev": "vuepress dev ."
   }
 }

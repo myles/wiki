@@ -2,5 +2,5 @@
 ID = "myles-wiki"
 
 [build]
-  publish = "_book/"
+  publish = ".vuepress/dist/"
   command = "npm run-script build"

@@ -8,4 +8,4 @@ After seeing [Nikita Voloboev](https://nikitavoloboev.xyz/)'s [GitBook](https://
 
 ## How it's Built
 
-This wiki is built using [GitBook](https://github.com/GitbookIO/gitbook) and hosted on [Netlify](https://netlify.com/).
+This wiki is built using [VuePress](https://vuepress.vuejs.org/) and hosted on [Netlify](https://netlify.com/).

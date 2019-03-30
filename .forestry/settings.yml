@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: ''
+  path: README.md
   label: Home
 - type: document
   path: status

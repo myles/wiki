@@ -3,4 +3,4 @@ ID = "myles-wiki"
 
 [build]
   publish = ".vuepress/dist/"
-  command = "npm run-script build"
+  command = "yarn run build"

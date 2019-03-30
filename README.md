@@ -1,10 +1,6 @@
----
-search: false
----
-
 # Myles' Wiki 📚
 
-![Deadpool Waving Hello](assets/gifs/deadpool-waving-hello.gif)
+![Deadpool Waving Hello](./assets/gifs/deadpool-waving-hello.gif)
 
 👋, welcome to my personal wiki where I try and share everything I research and know about a variety of topics.
 
@@ -15,4 +11,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 * * *
 
-![Rory Gilmore Droping Backpacks](assets/gifs/droping-backpacks.gif)
+![Rory Gilmore Droping Backpacks](./assets/gifs/droping-backpacks.gif)

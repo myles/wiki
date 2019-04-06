@@ -80,6 +80,38 @@ NAME       Myles Braithwaite
 SALARY               $10,000
 ```
 
+## Read a CSV file data in chunk size
+
+Sometimes a CSV is just to large for the memory on your computer. You can tell the argument `chunksize` how many rows of data you would like to load. 
+
+```python
+df_chunks = pd.read_csv("data/source/data.csv", chunksize=10000)
+
+df_chunks[0].head()
+```
+
+If you would like to load the scale down the data and load the it into one `pd.DataFrame`:
+
+```python
+def chunk_preprocessing(df):
+    """Preprocess a chunk of the data before analysis.
+    
+    Arguments
+    ————————-
+    df : `pd.DataFrame`
+        The chunk of the data source that needs to be processed.
+    """
+    pass
+
+
+df_chunks_processed = [
+    chunk_preprocessing(df)
+    for df in df_chunks
+]
+
+df_concat = pd.concat(df_chunks_processed)
+```
+
 ### Pandas/SQL Rosetta Stone
 
 #### `IN` / `pandas.DataFrame.isin`

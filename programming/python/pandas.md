@@ -10,6 +10,7 @@
 -   [Pandas Bokeh][6] - a Bokeh plotting backend for Pandas and GeoPandas - [🐙][7] [🐍][8]
 -   [jardin][9] - a `pandas.DataFrame`-based ORM - [🐙][10] [🐍][11]
 -   [PrettyPandas][12] - is a Pandas DataFrame Styler class that helps you create report quality tables - [🐙][13] [🐍][14]
+-   [pandas-datareader](https://pydata.github.io/pandas-datareader/) - up to date remote data access for pandas - [🐙](https://github.com/pydata/pandas-datareader) [🐍](https://pypi.org/project/pandas-datareader/)
 
 ## Links
 

@@ -12,6 +12,7 @@
 -   [yaps](https://ibm.github.io/yaps/) - a surface language for programming Stan models using python syntax - [🐙](https://github.com/ibm/yaps "yaps on GitHub")
 [🐍](https://pypi.org/project/yaps/ "yaps on PyPi")
 -   [py-spy](https://github.com/benfred/py-spy) - sampling profiler for Python programs
+-   [tartiflette](https://tartiflette.io/) - Tartiflette is a GraphQL Engine, built on top of Python 3.6 and above. Focused on building GraphQL APIs using the awesome Schema Definition Language. - [🐙](https://github.com/dailymotion/tartiflette "tartiflette on GitHub") [🐍](https://pypi.org/project/tartiflette/ "tartiflette on PyPi")
 
 ### Data Science
 

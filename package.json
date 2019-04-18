@@ -5,9 +5,13 @@
   },
   "devDependencies": {
     "remark-cli": "6.0.1",
+    "remark-lint-alphabetize-lists": "^2.0.1",
+    "remark-lint-are-links-valid": "^1.0.3",
+    "remark-lint-are-links-valid-alive": "^0.3.0",
+    "remark-lint-are-links-valid-duplicate": "^0.2.2",
     "remark-lint-no-dead-urls": "0.4.1",
     "remark-preset-lint-recommended": "3.0.2",
-    "remark-validate-links": "8.0.2",
+    "remark-validate-links": "^8.0.2",
     "write-good": "1.0.1"
   },
   "resolutions": {

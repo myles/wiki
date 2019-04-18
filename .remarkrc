@@ -1,6 +1,8 @@
 {
   "plugins": [
-    "preset-lint-recommended",
-    "validate-links"
+    "lint",
+    "lint-alphabetize-lists",
+    "validate-links",
+    "remark-lint-are-links-valid-duplicate"
   ]
 }

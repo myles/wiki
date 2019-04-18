@@ -13,6 +13,8 @@
 [🐍](https://pypi.org/project/yaps/ "yaps on PyPi")
 -   [py-spy](https://github.com/benfred/py-spy) - sampling profiler for Python programs
 -   [tartiflette](https://tartiflette.io/) - Tartiflette is a GraphQL Engine, built on top of Python 3.6 and above. Focused on building GraphQL APIs using the awesome Schema Definition Language. - [🐙](https://github.com/dailymotion/tartiflette "tartiflette on GitHub") [🐍](https://pypi.org/project/tartiflette/ "tartiflette on PyPi")
+-   [Vaex](https://vaex.io/) - visualize and explore big tabular data at a billion rows per second - [📑](https://docs.vaex.io/en/latest/ "Vaex documentation") [🐙](https://github.com/vaexio/vaex/ "Vaex on GitHub")
+[🐍](https://pypi.org/project/vaex/ "Vaex on PyPi") [📣](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861 "Vaex: A DataFrame with super strings by Maarten Breddels")
 
 ### Data Science
 

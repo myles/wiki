@@ -1,6 +1,6 @@
 # Productivity
 
--   [Your Productivity Hinges on How You Arrange Your Desk](https://medium.com/s/story/your-productivity-hinges-on-how-you-arrange-your-desk-6b278f018daf "Advice from nine design, career, and organization experts on making your space work for you") by Alli Hoff Kosik. 
+-   [Your Productivity Hinges on How You Arrange Your Desk](https://medium.com/s/story/your-productivity-hinges-on-how-you-arrange-your-desk-6b278f018daf "Advice from nine design, career, and organization experts on making your space work for you") by Alli Hoff Kosik.
 
 ## Email
 

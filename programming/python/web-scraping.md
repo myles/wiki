@@ -35,8 +35,12 @@ if not secret_page.pk:
   raise Exception
 ```
 
-[1]:	https://html.python-requests.org/ "HTML Parsing for Humans"
-[2]:	https://python-requests.org/
-[3]:	https://pythonhosted.org/pyquery/
-[4]:	https://github.com/kennethreitz/requests-html "Requests-HTML on GitHub"
-[5]:	https://pypi.org/project/requests-html/ "Requests-HTML on PyPi"
+[1]: https://html.python-requests.org/ "HTML Parsing for Humans"
+
+[2]: https://python-requests.org/
+
+[3]: https://pythonhosted.org/pyquery/
+
+[4]: https://github.com/kennethreitz/requests-html "Requests-HTML on GitHub"
+
+[5]: https://pypi.org/project/requests-html/ "Requests-HTML on PyPi"

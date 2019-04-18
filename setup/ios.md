@@ -22,10 +22,16 @@ Applications that I am currently using on [iOS][1].
 -   [TweetBot][6] - my favorite Twitter client for iOS and macOS.
 -   Instagram - favourite social network.
 
-[1]:	../ios/README.md
-[2]:	https://workingcopyapp.com/
-[3]:	http://githawk.com/
-[4]:	https://bear.app/
-[5]:	https://www.devontechnologies.com/products/devonthink/devonthink-to-go.html
-[6]:	https://tapbots.com/tweetbot/
-[7]:  https://panic.com/coda-ios/
+[1]: ../ios/README.md
+
+[2]: https://workingcopyapp.com/
+
+[3]: http://githawk.com/
+
+[4]: https://bear.app/
+
+[5]: https://www.devontechnologies.com/products/devonthink/devonthink-to-go.html
+
+[6]: https://tapbots.com/tweetbot/
+
+[7]: https://panic.com/coda-ios/

@@ -1,7 +1,3 @@
----
-search: false
----
-
 # iOS Applications
 
 Applications that I am currently using on [iOS][1].

@@ -12,8 +12,12 @@
 
 -   [Awesome-Selfhosted][5]
 
-[1]:	https://tellform.com/
-[2]:	https://github.com/tellform/tellform
-[3]:	https://piwigo.org/
-[4]:	https://github.com/Piwigo
-[5]:	https://github.com/Kickball/awesome-selfhosted
+[1]: https://tellform.com/
+
+[2]: https://github.com/tellform/tellform
+
+[3]: https://piwigo.org/
+
+[4]: https://github.com/Piwigo
+
+[5]: https://github.com/Kickball/awesome-selfhosted

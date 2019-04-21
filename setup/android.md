@@ -1,5 +1,1 @@
----
-search: false
----
-
 # Android

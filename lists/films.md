@@ -1,7 +1,3 @@
----
-search: false
----
-
 # Film to Watch 📽
 
 -   [ ] Hearts Beat Loud (2018), [iTunes](https://itunes.apple.com/ca/movie/hearts-beat-loud/id1426325081)

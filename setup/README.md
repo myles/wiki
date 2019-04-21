@@ -8,8 +8,12 @@ A list of the applications, tools, and services that I'm currently using.
 -   [macOS][4]
 -   [Windows][5]
 
-[1]:	bag.md "What stuff do I carry in my bag"
-[2]:	android.md
-[3]:	ios.md
-[4]:	macos.md
-[5]:	windows.md
+[1]: bag.md "What stuff do I carry in my bag"
+
+[2]: android.md
+
+[3]: ios.md
+
+[4]: macos.md
+
+[5]: windows.md

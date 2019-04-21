@@ -137,25 +137,44 @@ df[~df['city'].isin(['Markdale', 'Oakville'])]
 
 See the pandas documentation for more information on [`pandas.DataFrame.isin`][20].
 
-[1]:	README.md
-[2]:	https://modin.readthedocs.io/en/latest/
-[3]:	https://rise.cs.berkeley.edu/blog/modin-pandas-on-ray-october-2018/ "Modin (Pandas on Ray)"
-[4]:	https://github.com/modin-project/modin/ "Modin on GitHub"
-[5]:	https://pypi.org/project/modin/ "Modin on PyPi"
-[6]:	https://github.com/PatrikHlobil/Pandas-Bokeh
-[7]:	https://github.com/PatrikHlobil/Pandas-Bokeh "Pandas Bokeh on GitHub"
-[8]:	https://pypi.org/project/pandas-bokeh/ "Pandas Bokeh on PyPi"
-[9]:	https://jardin.readthedocs.io/en/latest/
-[10]:	https://github.com/instacart/jardin "jardin on GitHub"
-[11]:	https://pypi.org/project/jardin/ "jardin on PyPi"
-[12]:	https://prettypandas.readthedocs.io/en/latest/
-[13]:	https://github.com/HHammond/PrettyPandas "PrettyPandas on GitHub"
-[14]:	https://pypi.org/project/prettypandas/ "PrettyPandas on PyPi"
-[15]:	https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/
-[16]:	http://pbpython.com/improve-pandas-excel-output.html
-[17]:	http://pbpython.com/notebook-process.html
-[18]:	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html
-[19]:	https://pypi.python.org/pypi/awesome-slugify
-[20]:	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.isin.html
+[1]: README.md
 
-[image-1]:	../../assets/gifs/panda-eating.gif
+[2]: https://modin.readthedocs.io/en/latest/
+
+[3]: https://rise.cs.berkeley.edu/blog/modin-pandas-on-ray-october-2018/ "Modin (Pandas on Ray)"
+
+[4]: https://github.com/modin-project/modin/ "Modin on GitHub"
+
+[5]: https://pypi.org/project/modin/ "Modin on PyPi"
+
+[6]: https://github.com/PatrikHlobil/Pandas-Bokeh
+
+[7]: https://github.com/PatrikHlobil/Pandas-Bokeh "Pandas Bokeh on GitHub"
+
+[8]: https://pypi.org/project/pandas-bokeh/ "Pandas Bokeh on PyPi"
+
+[9]: https://jardin.readthedocs.io/en/latest/
+
+[10]: https://github.com/instacart/jardin "jardin on GitHub"
+
+[11]: https://pypi.org/project/jardin/ "jardin on PyPi"
+
+[12]: https://prettypandas.readthedocs.io/en/latest/
+
+[13]: https://github.com/HHammond/PrettyPandas "PrettyPandas on GitHub"
+
+[14]: https://pypi.org/project/prettypandas/ "PrettyPandas on PyPi"
+
+[15]: https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/
+
+[16]: http://pbpython.com/improve-pandas-excel-output.html
+
+[17]: http://pbpython.com/notebook-process.html
+
+[18]: https://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html
+
+[19]: https://pypi.python.org/pypi/awesome-slugify
+
+[20]: https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.isin.html
+
+[image-1]: ../../assets/gifs/panda-eating.gif

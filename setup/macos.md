@@ -1,7 +1,3 @@
----
-search: false
----
-
 # macOS Setup
 
 ## Development
@@ -17,7 +13,10 @@ search: false
 
 -   [TweetBot][4] - my favourite Twitter client for iOS and macOS.
 
-[1]:	https://www.git-tower.com
-[2]:	https://bear.app/
-[3]:	https://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html
-[4]:	https://tapbots.com/tweetbot/
+[1]: https://www.git-tower.com
+
+[2]: https://bear.app/
+
+[3]: https://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html
+
+[4]: https://tapbots.com/tweetbot/

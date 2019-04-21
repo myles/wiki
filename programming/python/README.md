@@ -6,13 +6,15 @@
 
 -   [Camelot](https://camelot-py.readthedocs.io/en/master/) - PDF Table Extraction for Humans - [📣](https://blog.socialcops.com/technology/engineering/camelot-python-library-pdf-data/ "Announcing Camelot, a Python Library to Extract Tabular Data from PDFs") [🐙](https://github.com/socialcopsdev/camelot/ "Camelot on GitHub") [🐍](https://pypi.org/project/camelot-py/ "Camelot on PyPi")
 -   [dataset](https://dataset.readthedocs.io/en/latest/index.html) - Databases for lazy people. - [🐙](https://github.com/pudo/dataset "dataset on GitHub")
- [🐍](https://pypi.org/project/dataset/ "dataset on PyPi")
+    [🐍](https://pypi.org/project/dataset/ "dataset on PyPi")
 -   [lab_getting_started.py](http://blog.varunajayasiri.com/ml/lab/lab_getting_started.html) - Lets you organize TensorFlow machine learning projects
 -   [cleanco](https://github.com/psolin/cleanco) - Cleans companies names by stripping away terms indicating organization type - [🐍](https://pypi.org/project/cleanco/ "cleanco on PyPi")
 -   [yaps](https://ibm.github.io/yaps/) - a surface language for programming Stan models using python syntax - [🐙](https://github.com/ibm/yaps "yaps on GitHub")
-[🐍](https://pypi.org/project/yaps/ "yaps on PyPi")
+    [🐍](https://pypi.org/project/yaps/ "yaps on PyPi")
 -   [py-spy](https://github.com/benfred/py-spy) - sampling profiler for Python programs
 -   [tartiflette](https://tartiflette.io/) - Tartiflette is a GraphQL Engine, built on top of Python 3.6 and above. Focused on building GraphQL APIs using the awesome Schema Definition Language. - [🐙](https://github.com/dailymotion/tartiflette "tartiflette on GitHub") [🐍](https://pypi.org/project/tartiflette/ "tartiflette on PyPi")
+-   [Vaex](https://vaex.io/) - visualize and explore big tabular data at a billion rows per second - [📑](https://docs.vaex.io/en/latest/ "Vaex documentation") [🐙](https://github.com/vaexio/vaex/ "Vaex on GitHub")
+    [🐍](https://pypi.org/project/vaex/ "Vaex on PyPi") [📣](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861 "Vaex: A DataFrame with super strings by Maarten Breddels")
 
 ### Data Science
 

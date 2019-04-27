@@ -32,7 +32,8 @@ module.exports = {
       "/comp-sci/": [
         ["/", "📚 Home"],
         "/comp-sci/",
-        "/comp-sci/ai"
+        "/comp-sci/ai",
+        "/comp-sci/ml"
       ],
       "/databases/": [
         ["/", "📚 Home"],

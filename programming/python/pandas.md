@@ -6,11 +6,11 @@
 
 ## Libaries
 
--   [Modin][2] - speed up your Pandas workflows by changing a single line of code - [📣][3] [🐙][4] [🐍][5]
--   [Pandas Bokeh][6] - a Bokeh plotting backend for Pandas and GeoPandas - [🐙][7] [🐍][8]
--   [jardin][9] - a `pandas.DataFrame`-based ORM - [🐙][10] [🐍][11]
--   [PrettyPandas][12] - is a Pandas DataFrame Styler class that helps you create report quality tables - [🐙][13] [🐍][14]
--   [pandas-datareader](https://pydata.github.io/pandas-datareader/) - up to date remote data access for pandas - [🐙](https://github.com/pydata/pandas-datareader) [🐍](https://pypi.org/project/pandas-datareader/)
+-   [Modin][2] - speed up your Pandas workflows by changing a single line of code - [:megaphone:][3] [:octopus:][4] [:snake:][5]
+-   [Pandas Bokeh][6] - a Bokeh plotting backend for Pandas and GeoPandas - [:octopus:][7] [:snake:][8]
+-   [jardin][9] - a `pandas.DataFrame`-based ORM - [:octopus:][10] [:snake:][11]
+-   [PrettyPandas][12] - is a Pandas DataFrame Styler class that helps you create report quality tables - [:octopus:][13] [:snake:][14]
+-   [pandas-datareader](https://pydata.github.io/pandas-datareader/) - up to date remote data access for pandas - [:octopus:](https://github.com/pydata/pandas-datareader) [:snake:](https://pypi.org/project/pandas-datareader/)
 
 ## Links
 

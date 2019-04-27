@@ -1,4 +1,4 @@
-# Film to Watch 📽
+# Film to Watch :film_projector:
 
 -   [ ] Hearts Beat Loud (2018), [iTunes](https://itunes.apple.com/ca/movie/hearts-beat-loud/id1426325081)
 -   [ ] Leave No Trace (2018)

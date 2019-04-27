@@ -4,7 +4,7 @@ These are my notes on <dfn>Web Scraping in Python</dfn>
 
 ## Libraries
 
--   [Requests-HTML][1] - Combines [Requests][2] and [PyQuery][3] to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible - [🐙][4] [🐍][5]
+-   [Requests-HTML][1] - Combines [Requests][2] and [PyQuery][3] to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible - [:octopus:][4] [:snake:][5]
 
 ## Snippets
 

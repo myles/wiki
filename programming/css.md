@@ -4,7 +4,7 @@ Cascading Style Sheets (<dfn>CSS</dfn>) is a style sheet language used for descr
 
 ## Framework
 
--   [Spectre.css](https://picturepan2.github.io/spectre/) - A lightweight, responsive, and modern CSS framework - [🐙](https://github.com/picturepan2/spectre "Spectre.css on GitHub")
+-   [Spectre.css](https://picturepan2.github.io/spectre/) - A lightweight, responsive, and modern CSS framework - [:octopus:](https://github.com/picturepan2/spectre "Spectre.css on GitHub")
 
 ## Link
 

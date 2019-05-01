@@ -32,3 +32,4 @@
 -   [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
 -   [Einstein Summation in Numpy](https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/) by Olexa Bilaniuk, 4 February 2016
 -   [Detecting SQL injections in Python code using AST](https://rushter.com/blog/detecting-sql-injections-in-python/) by Artem Golubin, 29 April 2019
+-   [Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e), 29 April 2019

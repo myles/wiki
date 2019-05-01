@@ -31,3 +31,4 @@
 -   [Working efficiently with JupyterLab Notebooks](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/) by Florian Wilhelm, 8 November 2018.
 -   [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
 -   [Einstein Summation in Numpy](https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/) by Olexa Bilaniuk, 4 February 2016
+-   [Detecting SQL injections in Python code using AST](https://rushter.com/blog/detecting-sql-injections-in-python/) by Artem Golubin, 29 April 2019

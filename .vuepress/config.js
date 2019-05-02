@@ -64,6 +64,12 @@ module.exports = {
         "/programming/php/laravel",
         "/programming/php/wordpress"
       ],
+      "/programming/js/": [
+        ["/", "📚 Home"],
+        "/programming/",
+        "/programming/js/",
+        "/programming/js/vuejs"
+      ],
       "/programming/python/": [
         ["/", "📚 Home"],
         "/programming/",
@@ -81,7 +87,7 @@ module.exports = {
         "/programming/css",
         "/programming/data-science",
         "/programming/go",
-        "/programming/javascript",
+        "/programming/js/",
         "/programming/methodology",
         "/programming/php/",
         "/programming/python/",

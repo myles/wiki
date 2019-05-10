@@ -1,8 +1,8 @@
-# Myles' Wiki 📚
+# Myles' Wiki :books:
 
 ![Deadpool Waving Hello](./assets/gifs/deadpool-waving-hello.gif)
 
-👋, welcome to my personal wiki where I try and share everything I research and know about a variety of topics.
+:waving_hand:, welcome to my personal wiki where I try and share everything I research and know about a variety of topics.
 
 * * *
 

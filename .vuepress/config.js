@@ -22,7 +22,7 @@ module.exports = {
         "/setup/android",
         "/setup/ios",
         "/setup/macos",
-        "/setup/windows"
+        "/setup/windows",
       ],
       "/android/": [
         ["/", "📚 Home"],
@@ -33,47 +33,48 @@ module.exports = {
         ["/", "📚 Home"],
         "/comp-sci/",
         "/comp-sci/ai",
-        "/comp-sci/ml"
+        "/comp-sci/ml",
       ],
       "/databases/": [
         ["/", "📚 Home"],
         "/databases/",
         "/databases/mysql",
-        "/databases/postgres"
+        "/databases/postgres",
       ],
       "/devops/": [
         ["/", "📚 Home"],
         "/devops/",
-        "/devops/ansible"
+        "/devops/ansible",
       ],
       "/graphic-design/": [
         ["/", "📚 Home"],
         "/graphic-design/",
-        "/graphic-design/adobe-illustrator"
+        "/graphic-design/adobe-illustrator",
       ],
       "/pentesting/": [
         ["/", "📚 Home"],
         "/pentesting/",
         "/pentesting/metasploit",
-        "/pentesting/nmap"
+        "/pentesting/nmap",
       ],
       "/programming/php/": [
         ["/", "📚 Home"],
         "/programming/",
         "/programming/php/",
         "/programming/php/laravel",
-        "/programming/php/wordpress"
+        "/programming/php/wordpress",
       ],
       "/programming/js/": [
         ["/", "📚 Home"],
         "/programming/",
         "/programming/js/",
-        "/programming/js/vuejs"
+        "/programming/js/vuejs",
       ],
       "/programming/python/": [
         ["/", "📚 Home"],
         "/programming/",
         "/programming/python/",
+        "/programming/python/anaconda",
         "/programming/python/celery",
         "/programming/python/django",
         "/programming/python/jupyter",

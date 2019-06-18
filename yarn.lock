@@ -829,11 +829,11 @@
   dependencies:
     nprogress "^0.2.0"
 
-"@vuepress/plugin-pwa@1.0.0-alpha.49":
-  version "1.0.0-alpha.49"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa/-/plugin-pwa-1.0.0-alpha.49.tgz#0d95d9f31190288a5e6e2fc6c27933b84d43eadd"
+"@vuepress/plugin-pwa@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa/-/plugin-pwa-1.0.1.tgz#291c98f75903cd7c3d66a25fa955411758606d9f"
   dependencies:
-    "@vuepress/shared-utils" "^1.0.0-alpha.49"
+    "@vuepress/shared-utils" "^1.0.1"
     register-service-worker "^1.5.2"
     workbox-build "^3.1.0"
 
@@ -846,20 +846,6 @@
 "@vuepress/plugin-search@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.0.1.tgz#3cc1bb10635c370c8e467a8efa4852ddc645b067"
-
-"@vuepress/shared-utils@^1.0.0-alpha.49":
-  version "1.0.0-alpha.49"
-  resolved "https://registry.yarnpkg.com/@vuepress/shared-utils/-/shared-utils-1.0.0-alpha.49.tgz#145d33f7036233893f69a5e024c68df9f9104889"
-  dependencies:
-    chalk "^2.3.2"
-    diacritics "^1.3.0"
-    escape-html "^1.0.3"
-    fs-extra "^7.0.1"
-    globby "^9.2.0"
-    gray-matter "^4.0.1"
-    hash-sum "^1.0.2"
-    semver "^6.0.0"
-    upath "^1.1.0"
 
 "@vuepress/shared-utils@^1.0.1":
   version "1.0.1"

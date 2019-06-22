@@ -11,6 +11,7 @@
 -   [jardin][9] - a `pandas.DataFrame`-based ORM - [:octopus:][10] [:snake:][11]
 -   [PrettyPandas][12] - is a Pandas DataFrame Styler class that helps you create report quality tables - [:octopus:][13] [:snake:][14]
 -   [pandas-datareader](https://pydata.github.io/pandas-datareader/) - up to date remote data access for pandas - [:octopus:](https://github.com/pydata/pandas-datareader) [:snake:](https://pypi.org/project/pandas-datareader/)
+-   [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling "Pandas Profiling on GitHub") - Generates profile reports from a pandas `DataFrame` - [:octopus:](https://github.com/pandas-profiling/pandas-profiling "Pandas Profiling on GitHub") [:snake:](https://pypi.org/project/pandas-profiling/ "Pandas Profiling on PyPi")
 
 ## Links
 

@@ -10,6 +10,10 @@
 -   [calmap](https://pythonhosted.org/calmap) - plot pandas time series data sampled by day in a heatmap per calendar year, similar to GitHub's contributions plot, using matplotlib - [:octopus:](https://github.com/martijnvermaat/calmap "calmap on GitHub") [:snake:](https://pypi.org/project/calmap/ "calmap on PyPi")
 -   [nbresuse](https://github.com/yuvipanda/nbresuse "nbresuse on GitHub") - A small extension for Jupyter Notebooks that displays an indication of how much resources your current notebook server and its children (kernels, terminals, etc) are using. - [:octopus:](https://github.com/martijnvermaat/nbresuse "nbresuse on GitHub") [:snake:](https://pypi.org/project/nbresuse/ "nbresuse on PyPi")
 
+## JupyterHub Distributions
+
+-   [The Littlest JupyterHub](http://tljh.jupyter.org/en/latest/index.html) - A simple JupyterHub distribution for a small (0-100) number of users on a single server. 
+-   [Zero to JupyterHub with Kubernetes](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html) - This project will help you set up your own JupyterHub on a cloud and leverage the clouds scalable nature to support large groups of users. Thanks to Kubernetes, we are not tied to a specific cloud provider.
 
 ## Links
 

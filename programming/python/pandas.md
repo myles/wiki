@@ -81,7 +81,19 @@ NAME       Myles Braithwaite
 SALARY               $10,000
 ```
 
-## Read a CSV file data in chunk size
+### Convert a column from continuous to categorical
+
+```python
+>>> df["age_groups"] = pd.cut(
+...     df.age,
+...     bins=[0, 18, 65, 99],
+...     labels=["child", "adult", "elderly"]
+... )
+```
+
+Kevin Markham ([justmarkham](https://twitter.com/justmarkham)) - <https://twitter.com/justmarkham/status/1146040449678925824>
+
+### Read a CSV file data in chunk size
 
 Sometimes a CSV is just to large for the memory on your computer. You can tell the argument `chunksize` how many rows of data you would like to load. 
 
@@ -118,14 +130,13 @@ df_concat = pd.concat(df_chunks_processed)
 #### `IN` / `pandas.DataFrame.isin`
 
 ```sql
-SELECT
-	*
+SELECT *
 FROM table
 WHERE
-	city IN (
-		"Toronto",
-		"Richmond Hill"
-	);
+    city IN (
+        "Toronto",
+        "Richmond Hill"
+    );
 ```
 
 ```python

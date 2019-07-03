@@ -2,7 +2,7 @@
 
 ![Deadpool Waving Hello](./assets/gifs/deadpool-waving-hello.gif)
 
-:waving_hand:, welcome to my personal wiki where I try and share everything I research and know about a variety of topics.
+:wave:, welcome to my personal wiki where I try and share everything I research and know about a variety of topics.
 
 * * *
 

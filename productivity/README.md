@@ -5,3 +5,7 @@
 ## Email
 
 -   [How to Unsubscribe from Mailing Lists and Junk Newsletters in Gmail](https://www.labnol.org/internet/gmail-unsubscribe/28806/), a Google Script to unsubscribe from mailing lists automatically.
+
+## Note-taking
+
+-   [How I take note at (tech) conferences](https://medium.com/@marcogomiero/how-i-take-note-at-conferences-f96e4956f12f) by Marco Gomiero, 6 July 2019.

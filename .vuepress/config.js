@@ -118,7 +118,7 @@ module.exports = {
         "/programming/python/web-scraping",
         ["/raspberry-pi/", "⬇️ Raspberry Pi"],
       ],
-      [
+      "/raspberry-pi/": [
         ["/", "📚 Home"],
         ["/programming/python/", "⬆️ Python"],
         "/raspberry-pi/",

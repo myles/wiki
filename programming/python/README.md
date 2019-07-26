@@ -2,6 +2,23 @@
 
 <dfn>Python</dfn> is a programming language.
 
+## Snippets
+
+### `*args` & `**kwargs`?
+
+```python
+>>> def hello(*args, **kwargs):
+...     gretting = kwargs.pop('gretting', 'Hello')
+...
+...     print(f"""{gretting} {' '.join(args)}!""")
+...
+>>>
+>>> hello("Laura", "Dang", gretting="Hi")
+Hi Laura Dang!
+```
+
+-   [How To Use *args and **kwargs in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3) by Lisa Tagliaferri, 20 November 2017.
+
 ## Libraries
 
 -   [Camelot](https://camelot-py.readthedocs.io/en/master/) - PDF Table Extraction for Humans - [:megaphone:](https://blog.socialcops.com/technology/engineering/camelot-python-library-pdf-data/ "Announcing Camelot, a Python Library to Extract Tabular Data from PDFs") [:octopus:](https://github.com/socialcopsdev/camelot/ "Camelot on GitHub") [:snake:](https://pypi.org/project/camelot-py/ "Camelot on PyPi")

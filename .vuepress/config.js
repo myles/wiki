@@ -66,6 +66,7 @@ module.exports = {
         ["/devops/", "⬆️ DevOps"],
         "/graphic-design/",
         "/graphic-design/adobe-illustrator",
+        "/graphic-design/pen-plotters",
         ["/pentesting/", "⬇️ Pentesting"],
       ],
       "/pentesting/": [

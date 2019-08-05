@@ -18,7 +18,8 @@
 
 -   [A Gentle Visual Intro to Data Analysis in Python Using Pandas][15] by Jay Alammar, 29 October 2018.
 -   [Improve panda’s Excel Output][16] by Chris Moffitt, 8 April 2015.
--   [Building a Repeatable Data Analysis Process with Jupyter Notebooks ][17] by Chris Moffitt, 20 November 2018.
+-   [Building a Repeatable Data Analysis Process with Jupyter Notebooks][17] by Chris Moffitt, 20 November 2018.
+-   [Gaining a solid understanding of Pandas series](https://towardsdatascience.com/gaining-a-solid-understanding-of-pandas-series-893fb8f785aa) by Akshar Raaj, 4 August 2019. 
 
 ## Notes
 

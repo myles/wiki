@@ -88,7 +88,7 @@ module.exports = {
         "/programming/methodology",
         "/programming/php/",
         "/programming/python/",
-        "/programming/static-websites"
+        "/programming/static-websites-generators/",
         ["/programming/php/", "⬇️ PHP"],
       ],
       "/programming/php/": [
@@ -117,11 +117,18 @@ module.exports = {
         "/programming/python/pandas",
         "/programming/python/regexes",
         "/programming/python/web-scraping",
+        ["/raspberry-pi/", "⬇️ Static Website Generators"],
+      ],
+      "/programming/static-websites-generators/": [
+        ["/", "📚 Home"],
+        ["/programming/js/", "⬆️ Python"],
+        "/programming/static-websites-generators/",
+        "/programming/static-websites-generators/vuepress",
         ["/raspberry-pi/", "⬇️ Raspberry Pi"],
       ],
       "/raspberry-pi/": [
         ["/", "📚 Home"],
-        ["/programming/python/", "⬆️ Python"],
+        ["/programming/python/", "⬆️ Static Website Generators"],
         "/raspberry-pi/",
         ["/text-editors/", "⬇️ Text Editors"],
       ],

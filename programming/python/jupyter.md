@@ -18,6 +18,7 @@
 ## Links
 
 -   [Building a Repeatable Data Analysis Process with Jupyter Notebooks](http://pbpython.com/notebook-process.html) by Chris Moffitt, 20 November 2018.
+-   [How to Write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c) by Will Koehrsen, 8 December 2018. 
 
 ## Snippets
 

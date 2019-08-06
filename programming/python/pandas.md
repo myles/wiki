@@ -20,6 +20,7 @@
 -   [Improve panda’s Excel Output][16] by Chris Moffitt, 8 April 2015.
 -   [Building a Repeatable Data Analysis Process with Jupyter Notebooks][17] by Chris Moffitt, 20 November 2018.
 -   [Gaining a solid understanding of Pandas series](https://towardsdatascience.com/gaining-a-solid-understanding-of-pandas-series-893fb8f785aa) by Akshar Raaj, 4 August 2019. 
+-   [How to make a gif map using Python, Geopandas and Matplotlib](https://towardsdatascience.com/how-to-make-a-gif-map-using-python-geopandas-and-matplotlib-cd8827cefbc8) by Benjamin Cooley, 10 October 2018. 
 
 ## Notes
 

@@ -7,6 +7,10 @@
     "vuepress-plugin-feed": "^0.1.6"
   },
   "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-vue": "^5.2.3",
     "remark-cli": "6.0.1",
     "remark-lint-alphabetize-lists": "2.0.1",
     "remark-lint-are-links-valid": "1.0.3",

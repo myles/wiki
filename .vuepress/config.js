@@ -96,7 +96,7 @@ module.exports = {
         '/programming/methodology',
         '/programming/php/',
         '/programming/python/',
-        '/programming/static-websites-generators/',
+        '/programming/static-website-generators/',
         ['/programming/php/', '⬇️ PHP'],
       ],
       '/programming/php/': [

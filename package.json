@@ -28,6 +28,6 @@
     "build": "vuepress build .",
     "lint": "remark .",
     "write-good": "write-good **/*.md",
-    "dev": "vuepress dev ."
+    "start": "vuepress dev ."
   }
 }

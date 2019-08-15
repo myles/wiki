@@ -48,7 +48,7 @@ module.exports = {
         '/comp-sci/ml',
         ['/dat/', '⬇️ Dat'],
       ],
-      dat: [
+      '/dat/': [
         ['/', '📚 Home'],
         ['/comp-sci/', '⬆️ Comp-Sci'],
         '/dat/',

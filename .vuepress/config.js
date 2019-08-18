@@ -67,6 +67,7 @@ module.exports = {
         "/graphic-design/",
         "/graphic-design/adobe-illustrator",
         "/graphic-design/pen-plotters",
+        "/graphic-design/svg",
         ["/pentesting/", "⬇️ Pentesting"],
       ],
       "/pentesting/": [

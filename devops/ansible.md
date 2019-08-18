@@ -6,8 +6,8 @@
 
 ### Looping over a subelement
 
--   [Example Gist](https://gist.github.com/myles/2c1fb82c8764440756d910f981d9ff24)
 -   [Ansible Documentation](https://docs.ansible.com/ansible/2.4/playbooks_loops.html#looping-over-subelements)
+-   [Example Gist](https://gist.github.com/myles/2c1fb82c8764440756d910f981d9ff24)
 
 Variables:
 

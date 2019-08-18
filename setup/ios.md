@@ -4,19 +4,21 @@ Applications that I am currently using on [iOS][1].
 
 ## Code
 
--   [Working Copy][2] - a Git client for iOS I use to edit and deploy different Git repositories.
--   [GitHawk][3] - a GitHub client for looking up repos and issues.
 -   [Coda for iOS][7] - a text editor for iOS I use to edit my websites on my iPad and iPhone.
+-   [GitHawk][3] - a GitHub client for looking up repos and issues.
+-   [Textstic](https://www.textasticapp.com/) - a really awesome text editor for iOS.
+-   [Working Copy][2] - a Git client for iOS I use to edit and deploy different Git repositories.
 
 ## Productivity
 
--   [Bear][4] - for quick note tacking and task lists.
+-   [Bear][4] - for quick note tacking.
 -   [DEVONThink To Go][5] - for reading, storing, and indexing PDFs and other documents in iOS.
+-   [Things](https://culturedcode.com/things/) - for projects and tasks.
 
 ## Social
 
--   [TweetBot][6] - my favorite Twitter client for iOS and macOS.
 -   Instagram - favourite social network.
+-   [TweetBot][6] - my favorite Twitter client for iOS and macOS.
 
 [1]: ../ios/README.md
 

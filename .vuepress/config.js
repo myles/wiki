@@ -91,7 +91,7 @@ module.exports = {
         ['/pentesting/', '⬆️ Pentesting'],
         '/programming/',
         '/programming/css',
-        '/programming/data-science',
+        '/programming/data-science/',
         '/programming/go',
         '/programming/js/',
         '/programming/methodology',

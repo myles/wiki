@@ -1,6 +1,6 @@
 module.exports = {
   '/android/': [
-    ["/", "Home"],
+    ['/', 'Home'],
     {
       title: 'Android',
       icon: 'fab fa-android',
@@ -8,12 +8,12 @@ module.exports = {
       children: [
         '/android/',
         '/android/fire-os',
-      ]
+      ],
     },
-    "/comp-sci/",
+    '/comp-sci/',
   ],
   '/comp-sci/': [
-    "/android/",
+    '/android/',
     {
       title: 'Computer Science',
       icon: 'fas fa-robot',
@@ -22,9 +22,9 @@ module.exports = {
         '/comp-sci/',
         '/comp-sci/ai',
         '/comp-sci/ml',
-      ]
+      ],
     },
-    "/databases/",
+    '/databases/',
   ],
   '/databases/': [
     '/comp-sci/',
@@ -36,7 +36,7 @@ module.exports = {
         '/databases/',
         '/databases/mysql',
         '/databases/postgres',
-      ]
+      ],
     },
     '/devops/',
   ],
@@ -49,7 +49,7 @@ module.exports = {
       children: [
         '/devops/',
         '/devops/ansible',
-      ]
+      ],
     },
     '/graphic-design/',
   ],
@@ -65,7 +65,7 @@ module.exports = {
         '/graphic-design/design-systems',
         '/graphic-design/pen-plotters',
         '/graphic-design/svg',
-      ]
+      ],
     },
     '/lists/',
   ],
@@ -81,7 +81,7 @@ module.exports = {
         '/lists/films',
         '/lists/tv-shows',
         '/lists/video-games',
-      ]
+      ],
     },
     '/pentesting/',
   ],
@@ -95,7 +95,7 @@ module.exports = {
         '/pentesting/',
         '/pentesting/metasploit',
         '/pentesting/nmap',
-      ]
+      ],
     },
     '/programming/',
   ],
@@ -117,7 +117,7 @@ module.exports = {
         '/programming/go',
         '/programming/methodology',
         '/programming/r',
-      ]
+      ],
     },
     {
       title: 'Data Science',
@@ -126,7 +126,7 @@ module.exports = {
       children: [
         '/programming/data-science/',
         '/programming/data-science/organizing-projects',
-      ]
+      ],
     },
     {
       title: 'JavaScript',
@@ -135,7 +135,7 @@ module.exports = {
       children: [
         '/programming/js/',
         '/programming/js/vuejs',
-      ]
+      ],
     },
     {
       title: 'PHP',
@@ -145,7 +145,7 @@ module.exports = {
         '/programming/php/',
         '/programming/php/laravel',
         '/programming/php/wordpress',
-      ]
+      ],
     },
     {
       title: 'Python',
@@ -160,7 +160,7 @@ module.exports = {
         '/programming/python/pandas',
         '/programming/python/regexes',
         '/programming/python/web-scraping',
-      ]
+      ],
     },
     {
       title: 'Static Website Generators',
@@ -169,7 +169,7 @@ module.exports = {
       children: [
         '/programming/static-website-generators/',
         '/programming/static-website-generators/vuepress',
-      ]
+      ],
     },
     '/setup/',
   ],
@@ -186,7 +186,7 @@ module.exports = {
         '/setup/ios',
         '/setup/macos',
         '/setup/windows',
-      ]
+      ],
     },
     '/text-editors/',
   ],
@@ -199,7 +199,7 @@ module.exports = {
       children: [
         '/text-editors/',
         '/text-editors/vscode',
-      ]
+      ],
     },
     '/GLOSSARY',
   ],
@@ -224,13 +224,13 @@ module.exports = {
     '/text-editors/',
     '/unix/',
     {
-			collapsable: false,
-			children: [
+      collapsable: false,
+      children: [
         '/GLOSSARY',
         '/LICENSE',
         '/meta',
-        '/status'
+        '/status',
       ],
-		},
+    },
   ],
-}
+};

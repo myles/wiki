@@ -21,6 +21,6 @@ module.exports = {
         searchMaxSuggestions: 10,
       },
     },
-    sidebar: require('./sidebar')
+    sidebar: require('./sidebar'),
   },
 };

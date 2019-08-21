@@ -1,3 +1,5 @@
+const sidebar = require('./sidebar');
+
 module.exports = {
   title: "Myles' Wiki",
   themeConfig: {
@@ -5,13 +7,6 @@ module.exports = {
     editLinks: true,
     lastUpdated: 'Last Updated',
     plugins: {
-      '@vuepress/pwa': {
-        serviceWorker: true,
-        updatePopup: {
-          message: 'New content is available.',
-          buttonText: 'Refresh',
-        },
-      },
       'vuepress-plugin-feed': {
         title: "Myles' Wiki",
         description: 'A place Myles Braithwaite can try and share everything he researches and knows about a variety of topics.',
@@ -21,6 +16,6 @@ module.exports = {
         searchMaxSuggestions: 10,
       },
     },
-    sidebar: require('./sidebar'),
+    sidebar,
   },
 };

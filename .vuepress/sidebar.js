@@ -10,9 +10,10 @@ module.exports = {
         '/android/fire-os',
       ]
     },
+    "/comp-sci/",
   ],
   '/comp-sci/': [
-    ["/", "Home"],
+    "/android/",
     {
       title: 'Computer Science',
       icon: 'fas fa-robot',
@@ -23,9 +24,10 @@ module.exports = {
         '/comp-sci/ml',
       ]
     },
+    "/databases/",
   ],
   '/databases/': [
-    ["/", "Home"],
+    '/comp-sci/',
     {
       title: 'Databases',
       icon: 'fas fa-database',
@@ -36,9 +38,10 @@ module.exports = {
         '/databases/postgres',
       ]
     },
+    '/devops/',
   ],
   '/devops/': [
-    ["/", "Home"],
+    '/databases/',
     {
       title: 'DevOps',
       icon: 'far fa-user-hard-hat',
@@ -48,9 +51,10 @@ module.exports = {
         '/devops/ansible',
       ]
     },
+    '/graphic-design/',
   ],
   '/graphic-design/': [
-    ["/", "Home"],
+    '/devops/',
     {
       title: 'Graphic Design',
       icon: 'fas fa-pencil-ruler',
@@ -63,9 +67,10 @@ module.exports = {
         '/graphic-design/svg',
       ]
     },
+    '/lists/',
   ],
   '/lists/': [
-    ["/", "Home"],
+    '/graphic-design/',
     {
       title: 'Lists',
       icon: 'fas fa-stream',
@@ -78,9 +83,10 @@ module.exports = {
         '/lists/video-games',
       ]
     },
+    '/pentesting/',
   ],
   '/pentesting/': [
-    ["/", "Home"],
+    '/lists/',
     {
       title: 'Pentesting',
       icon: 'fas fa-pen',
@@ -91,9 +97,10 @@ module.exports = {
         '/pentesting/nmap',
       ]
     },
+    '/programming/',
   ],
   '/programming/': [
-    ["/", "Home"],
+    '/pentesting/',
     {
       title: 'Programming',
       icon: 'fas fa-laptop-code',
@@ -164,9 +171,10 @@ module.exports = {
         '/programming/static-website-generators/vuepress',
       ]
     },
+    '/setup/',
   ],
   '/setup/': [
-    ["/", "Home"],
+    '/programming/',
     {
       title: 'Setup',
       icon: 'fas fa-digging',
@@ -180,9 +188,10 @@ module.exports = {
         '/setup/windows',
       ]
     },
+    '/text-editors/',
   ],
   '/text-editors/': [
-    ["/", "Home"],
+    '/setup/',
     {
       title: 'Text Editors',
       icon: 'fas file-alt',
@@ -192,30 +201,31 @@ module.exports = {
         '/text-editors/vscode',
       ]
     },
+    '/GLOSSARY',
   ],
   '/': [
+    ['/', 'Home'],
+    '/android/',
+    '/comp-sci/',
+    '/dat/',
+    '/databases/',
+    '/devops/',
+    '/graphic-design/',
+    '/ios/',
+    '/linux/',
+    '/lists/',
+    '/pentesting/',
+    '/productivity/',
+    '/programming/',
+    '/raspberry-pi/',
+    '/selfhosted/',
+    '/setup/',
+    '/startup/',
+    '/text-editors/',
+    '/unix/',
     {
 			collapsable: false,
 			children: [
-        '/',
-        '/android/',
-        '/comp-sci/',
-        '/dat/',
-        '/databases/',
-        '/devops/',
-        '/graphic-design/',
-        '/ios/',
-        '/linux/',
-        '/lists/',
-        '/pentesting/',
-        '/productivity/',
-        '/programming/',
-        '/raspberry-pi/',
-        '/selfhosted/',
-        '/setup/',
-        '/startup/',
-        '/text-editors/',
-        '/unix/',
         '/GLOSSARY',
         '/LICENSE',
         '/meta',

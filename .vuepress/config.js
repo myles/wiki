@@ -1,6 +1,5 @@
 module.exports = {
   title: "Myles' Wiki",
-  plugins: ['@vuepress/pwa'],
   themeConfig: {
     repo: 'myles/wiki',
     editLinks: true,

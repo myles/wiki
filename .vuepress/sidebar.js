@@ -1,6 +1,6 @@
 module.exports = {
   '/android/': [
-    ['/', 'Home'],
+    ['/', '⬆️ Home'],
     {
       title: 'Android',
       icon: 'fab fa-android',
@@ -10,10 +10,11 @@ module.exports = {
         '/android/fire-os',
       ],
     },
-    '/comp-sci/',
+    ['/comp-sci/', '➡️ Computer Science'],
   ],
   '/comp-sci/': [
-    '/android/',
+    ['/', '⬆️ Home'],
+    ['/android/', '⬅️ Android'],
     {
       title: 'Computer Science',
       icon: 'fas fa-robot',
@@ -24,10 +25,11 @@ module.exports = {
         '/comp-sci/ml',
       ],
     },
-    '/databases/',
+    ['/databases/', '➡️ Databases'],
   ],
   '/databases/': [
-    '/comp-sci/',
+    ['/', '⬆️ Home'],
+    ['/comp-sci/', '⬅️ Computer Science'],
     {
       title: 'Databases',
       icon: 'fas fa-database',
@@ -38,10 +40,11 @@ module.exports = {
         '/databases/postgres',
       ],
     },
-    '/devops/',
+    ['/devops/', '➡️ DevOps'],
   ],
   '/devops/': [
-    '/databases/',
+    ['/', '⬆️ Home'],
+    ['/databases/', '⬅️ Databases'],
     {
       title: 'DevOps',
       icon: 'far fa-user-hard-hat',
@@ -51,10 +54,11 @@ module.exports = {
         '/devops/ansible',
       ],
     },
-    '/graphic-design/',
+    ['/graphic-design/', '➡️ Graphic Design'],
   ],
   '/graphic-design/': [
-    '/devops/',
+    ['/', '⬆️ Home'],
+    ['/devops/', '⬅️ DevOps'],
     {
       title: 'Graphic Design',
       icon: 'fas fa-pencil-ruler',
@@ -67,10 +71,11 @@ module.exports = {
         '/graphic-design/svg',
       ],
     },
-    '/lists/',
+    ['/lists/', '➡️ Lists'],
   ],
   '/lists/': [
-    '/graphic-design/',
+    ['/', '⬆️ Home'],
+    ['/graphic-design/', '⬅️ Graphic Design'],
     {
       title: 'Lists',
       icon: 'fas fa-stream',
@@ -83,10 +88,11 @@ module.exports = {
         '/lists/video-games',
       ],
     },
-    '/pentesting/',
+    ['/pentesting/', '➡️ Pentesting'],
   ],
   '/pentesting/': [
-    '/lists/',
+    ['/', '⬆️ Home'],
+    ['/lists/', '⬅️ Lists'],
     {
       title: 'Pentesting',
       icon: 'fas fa-pen',
@@ -97,10 +103,11 @@ module.exports = {
         '/pentesting/nmap',
       ],
     },
-    '/programming/',
+    ['/programming/', '➡️ Programming'],
   ],
   '/programming/': [
-    '/pentesting/',
+    ['/', '⬆️ Home'],
+    ['/pentesting/', '⬅️ Pentesting'],
     {
       title: 'Programming',
       icon: 'fas fa-laptop-code',
@@ -171,10 +178,11 @@ module.exports = {
         '/programming/static-website-generators/vuepress',
       ],
     },
-    '/setup/',
+    ['/setup/', '➡️ Setup'],
   ],
   '/setup/': [
-    '/programming/',
+    ['/', '⬆️ Home'],
+    ['/programming/', '⬅️ Programming'],
     {
       title: 'Setup',
       icon: 'fas fa-digging',
@@ -188,10 +196,11 @@ module.exports = {
         '/setup/windows',
       ],
     },
-    '/text-editors/',
+    ['/text-editors/', '➡️ Text Editors'],
   ],
   '/text-editors/': [
-    '/setup/',
+    ['/', '⬆️ Home'],
+    ['/setup/', '⬅️ Setup'],
     {
       title: 'Text Editors',
       icon: 'fas file-alt',
@@ -201,7 +210,7 @@ module.exports = {
         '/text-editors/vscode',
       ],
     },
-    '/GLOSSARY',
+    ['/GLOSSARY', '➡️ Glossary'],
   ],
   '/': [
     ['/', 'Home'],

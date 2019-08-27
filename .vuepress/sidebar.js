@@ -210,6 +210,19 @@ module.exports = {
         '/text-editors/vscode',
       ],
     },
+    ['/windows/', '➡️ Windows'],
+  ],
+  '/windows/': [
+    ['/', '⬆️ Home'],
+    ['/text-editors/', '⬅️ Text Editors'],
+    {
+      title: 'Windows',
+      icon: 'fab fa-windows',
+      collapsable: true,
+      children: [
+        '/windows/',
+      ],
+    },
     ['/GLOSSARY', '➡️ Glossary'],
   ],
   '/': [
@@ -232,6 +245,7 @@ module.exports = {
     '/startup/',
     '/text-editors/',
     '/unix/',
+    '/windows/',
     {
       collapsable: false,
       children: [

@@ -1,3 +1,19 @@
+const fg = require('fast-glob');
+
+function getPages(path) {
+  const mdFiles = fg.sync([`${path}/**/*.md`]);
+
+  mdFiles.forEach((element, index) => {
+    if (element.endsWith('README.md')) {
+      mdFiles[index] = `/${element.replace('README.md', '')}`;
+    } else if (element.endsWith('.md')) {
+      mdFiles[index] = `/${element.replace('.md', '')}`;
+    }
+  });
+
+  return mdFiles;
+}
+
 module.exports = {
   '/android/': [
     ['/', '⬆️ Home'],
@@ -5,10 +21,7 @@ module.exports = {
       title: 'Android',
       icon: 'fab fa-android',
       collapsable: false,
-      children: [
-        '/android/',
-        '/android/fire-os',
-      ],
+      children: getPages('android'),
     },
     ['/comp-sci/', '➡️ Computer Science'],
   ],
@@ -19,11 +32,7 @@ module.exports = {
       title: 'Computer Science',
       icon: 'fas fa-robot',
       collapsable: false,
-      children: [
-        '/comp-sci/',
-        '/comp-sci/ai',
-        '/comp-sci/ml',
-      ],
+      children: getPages('comp-sci'),
     },
     ['/databases/', '➡️ Databases'],
   ],
@@ -34,11 +43,7 @@ module.exports = {
       title: 'Databases',
       icon: 'fas fa-database',
       collapsable: false,
-      children: [
-        '/databases/',
-        '/databases/mysql',
-        '/databases/postgres',
-      ],
+      children: getPages('databases'),
     },
     ['/devops/', '➡️ DevOps'],
   ],
@@ -49,10 +54,7 @@ module.exports = {
       title: 'DevOps',
       icon: 'far fa-user-hard-hat',
       collapsable: false,
-      children: [
-        '/devops/',
-        '/devops/ansible',
-      ],
+      children: getPages('devops'),
     },
     ['/graphic-design/', '➡️ Graphic Design'],
   ],
@@ -63,13 +65,7 @@ module.exports = {
       title: 'Graphic Design',
       icon: 'fas fa-pencil-ruler',
       collapsable: false,
-      children: [
-        '/graphic-design/',
-        '/graphic-design/adobe-illustrator',
-        '/graphic-design/design-systems',
-        '/graphic-design/pen-plotters',
-        '/graphic-design/svg',
-      ],
+      children: getPages('graphic-design'),
     },
     ['/lists/', '➡️ Lists'],
   ],
@@ -80,13 +76,7 @@ module.exports = {
       title: 'Lists',
       icon: 'fas fa-stream',
       collapsable: false,
-      children: [
-        '/lists/',
-        '/lists/books',
-        '/lists/films',
-        '/lists/tv-shows',
-        '/lists/video-games',
-      ],
+      children: getPages('lists'),
     },
     ['/pentesting/', '➡️ Pentesting'],
   ],
@@ -97,11 +87,7 @@ module.exports = {
       title: 'Pentesting',
       icon: 'fas fa-pen',
       collapsable: false,
-      children: [
-        '/pentesting/',
-        '/pentesting/metasploit',
-        '/pentesting/nmap',
-      ],
+      children: getPages('pentesting'),
     },
     ['/programming/', '➡️ Programming'],
   ],
@@ -187,14 +173,7 @@ module.exports = {
       title: 'Setup',
       icon: 'fas fa-digging',
       collapsable: true,
-      children: [
-        '/setup/',
-        '/setup/bag',
-        '/setup/android',
-        '/setup/ios',
-        '/setup/macos',
-        '/setup/windows',
-      ],
+      children: getPages('setup'),
     },
     ['/text-editors/', '➡️ Text Editors'],
   ],
@@ -205,10 +184,7 @@ module.exports = {
       title: 'Text Editors',
       icon: 'fas file-alt',
       collapsable: true,
-      children: [
-        '/text-editors/',
-        '/text-editors/vscode',
-      ],
+      children: getPages('text-editors'),
     },
     ['/windows/', '➡️ Windows'],
   ],

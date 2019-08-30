@@ -127,6 +127,7 @@ module.exports = {
       collapsable: false,
       children: [
         '/programming/js/',
+        '/programming/js/nodejs',
         '/programming/js/vuejs',
       ],
     },

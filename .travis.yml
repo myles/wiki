@@ -1,2 +1,8 @@
 language: node_js
 script: yarn run build
+env:
+  global:
+    - PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
+    - USE_REMOTE_DEBUG=false
+addons:
+  chrome: stable

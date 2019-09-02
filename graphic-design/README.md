@@ -10,3 +10,8 @@
 ## Assets
 
 -   [Humaaans](https://www.humaaans.com/) - mix and match illustrations of people.
+
+## Techniques
+
+-   [Pen Plotters](pen-plotters.md)
+-   [Zine](zine.md)

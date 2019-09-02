@@ -11,6 +11,10 @@
 -   [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - makes indentation easier to read.
 -   [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) - rainbow brackets extension.
 
+### Themes
+
+-   [SynthWave '84](https://github.com/robb0wen/synthwave-vscode) by Robb Owen.
+
 ## Links
 
 -   [Awesome VS Code](https://github.com/viatsko/awesome-vscode)

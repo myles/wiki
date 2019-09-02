@@ -10,5 +10,5 @@
 
 ## Links
 
--   [The Ultimate Guide to Django Redirects](https://realpython.com/django-redirects/) by Daniel Hepper, 15 August 2018.
 -   [Is your Django app slow? Think like a data scientist, not an engineer](https://dev.to/scoutapm/is-your-django-app-slow-think-like-a-data-scientist-not-an-engineer-5bnb) by Derek Haynes, 22 April 2019.
+-   [The Ultimate Guide to Django Redirects](https://realpython.com/django-redirects/) by Daniel Hepper, 15 August 2018.

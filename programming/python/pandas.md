@@ -6,19 +6,21 @@
 
 ## Libaries
 
--   [Modin][2] - speed up your Pandas workflows by changing a single line of code - [:megaphone:][3] [:octopus:][4] [:snake:][5]
--   [Pandas Bokeh][6] - a Bokeh plotting backend for Pandas and GeoPandas - [:octopus:][7] [:snake:][8]
 -   [jardin][9] - a `pandas.DataFrame`-based ORM - [:octopus:][10] [:snake:][11]
--   [PrettyPandas][12] - is a Pandas DataFrame Styler class that helps you create report quality tables - [:octopus:][13] [:snake:][14]
+-   [Modin][2] - speed up your Pandas workflows by changing a single line of code - [:megaphone:][3] [:octopus:][4] [:snake:][5]
+-   Pandaral·lel - A simple and efficient tool to parallelize your pandas operations on all your CPUs on Linux & macOS - [:octopus:](https://github.com/nalepae/pandarallel "pandarallel on GitHub") [:snake:](https://pypi.org/project/pandas-pandarallel/ "pandarallel on PyPi")
+-   [Pandas Bokeh][6] - a Bokeh plotting backend for Pandas and GeoPandas - [:octopus:][7] [:snake:][8]
 -   [pandas-datareader](https://pydata.github.io/pandas-datareader/) - up to date remote data access for pandas - [:octopus:](https://github.com/pydata/pandas-datareader) [:snake:](https://pypi.org/project/pandas-datareader/)
--   [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling "Pandas Profiling on GitHub") - Generates profile reports from a pandas `DataFrame` - [:octopus:](https://github.com/pandas-profiling/pandas-profiling "Pandas Profiling on GitHub") [:snake:](https://pypi.org/project/pandas-profiling/ "Pandas Profiling on PyPi")
--   [Pandaral·lel](https://github.com/nalepae/pandarallel "pandarallel on GitHub") - A simple and efficient tool to parallelize your pandas operations on all your CPUs on Linux & macOS - [:octopus:](https://github.com/nalepae/pandarallel "pandarallel on GitHub") [:snake:](https://pypi.org/project/pandas-pandarallel/ "pandarallel on PyPi")
+-   Pandas Profiling - Generates profile reports from a pandas `DataFrame` - [:octopus:](https://github.com/pandas-profiling/pandas-profiling "Pandas Profiling on GitHub") [:snake:](https://pypi.org/project/pandas-profiling/ "Pandas Profiling on PyPi")
+-   [PrettyPandas][12] - is a Pandas DataFrame Styler class that helps you create report quality tables - [:octopus:][13] [:snake:][14]
 
 ## Links
 
 -   [A Gentle Visual Intro to Data Analysis in Python Using Pandas][15] by Jay Alammar, 29 October 2018.
+-   [Building a Repeatable Data Analysis Process with Jupyter Notebooks][17] by Chris Moffitt, 20 November 2018.
+-   [Gaining a solid understanding of Pandas series](https://towardsdatascience.com/gaining-a-solid-understanding-of-pandas-series-893fb8f785aa) by Akshar Raaj, 4 August 2019.
+-   [How to make a gif map using Python, Geopandas and Matplotlib](https://towardsdatascience.com/how-to-make-a-gif-map-using-python-geopandas-and-matplotlib-cd8827cefbc8) by Benjamin Cooley, 10 October 2018.
 -   [Improve panda’s Excel Output][16] by Chris Moffitt, 8 April 2015.
--   [Building a Repeatable Data Analysis Process with Jupyter Notebooks ][17] by Chris Moffitt, 20 November 2018.
 
 ## Notes
 
@@ -96,7 +98,7 @@ Kevin Markham ([justmarkham](https://twitter.com/justmarkham)) - <https://twitte
 
 ### Read a CSV file data in chunk size
 
-Sometimes a CSV is just to large for the memory on your computer. You can tell the argument `chunksize` how many rows of data you would like to load. 
+Sometimes a CSV is just to large for the memory on your computer. You can tell the argument `chunksize` how many rows of data you would like to load.
 
 ```python
 df_chunks = pd.read_csv("data/source/data.csv", chunksize=10000)
@@ -109,7 +111,7 @@ If you would like to load the scale down the data and load the it into one `pd.D
 ```python
 def chunk_preprocessing(df):
     """Preprocess a chunk of the data before analysis.
-    
+
     Arguments
     ————————-
     df : `pd.DataFrame`

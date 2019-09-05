@@ -20,7 +20,8 @@
     "remark-preset-lint-recommended": "3.0.3",
     "remark-validate-links": "9.0.1",
     "write-good": "1.0.2",
-    "markdown-it-footnote": "3.0.2"
+    "markdown-it-footnote": "3.0.2",
+    "markdown-it-emoji": "1.4.0"
   },
   "resolutions": {
     "webpack-dev-middleware": "3.6.0"

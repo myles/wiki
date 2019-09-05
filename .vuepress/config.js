@@ -18,4 +18,11 @@ module.exports = {
     },
     sidebar,
   },
+  markdown: {
+    lineNumbers: true,
+    config: md => {
+      md.use(require('markdown-it-footnote'))
+        .use(require('markdown-it-emoji'))
+    }
+  },
 };

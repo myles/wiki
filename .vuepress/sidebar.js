@@ -34,8 +34,33 @@ module.exports = {
       collapsable: false,
       children: getPages('comp-sci'),
     },
-    ['/databases/', '➡️ Databases'],
+    ['/cooking/', '➡️ Cooking'],
   ],
+  '/cooking/': [
+    ['/', '⬆️ Home'],
+    ['/comp-sci/', '⬅️ Computer Science'],
+    {
+      title: 'Cooking',
+      icon: 'TODO',
+      collapsable: false,
+      children: getPages('cooking'),
+    },
+    {
+      title: 'Recipies',
+      icon: 'TODO',
+      collapsable: false,
+      children:[
+        'cooking/recipies/deserts/',
+      ]
+    },
+    {
+      title: 'Desert Recipies',
+      icon: 'TODO',
+      collapsable: false,
+      children: getPages('cooking/recipies/deserts'),
+    }
+    ['/databases/', '➡️ Databases'],
+  ]
   '/databases/': [
     ['/', '⬆️ Home'],
     ['/comp-sci/', '⬅️ Computer Science'],

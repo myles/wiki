@@ -50,14 +50,14 @@ module.exports = {
       icon: 'TODO',
       collapsable: false,
       children:[
-        'cooking/recipies/deserts/',
+        'cooking/recipies/desserts/',
       ]
     },
     {
-      title: 'Desert Recipies',
+      title: 'Dessert Recipies',
       icon: 'TODO',
       collapsable: false,
-      children: getPages('cooking/recipies/deserts'),
+      children: getPages('cooking/recipies/desserts'),
     }
     ['/databases/', '➡️ Databases'],
   ]
@@ -231,6 +231,7 @@ module.exports = {
     ['/', 'Home'],
     '/android/',
     '/comp-sci/',
+    '/cooking/',
     '/dat/',
     '/databases/',
     '/devops/',

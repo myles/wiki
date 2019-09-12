@@ -60,7 +60,7 @@ module.exports = {
       children: getPages('cooking/recipies/desserts'),
     }
     ['/databases/', '➡️ Databases'],
-  ]
+  ],
   '/databases/': [
     ['/', '⬆️ Home'],
     ['/comp-sci/', '⬅️ Computer Science'],

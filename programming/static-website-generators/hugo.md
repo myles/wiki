@@ -7,3 +7,7 @@
 -   [Academic](https://github.com/gcushen/hugo-academic)
 -   [Coder](https://github.com/luizdepra/hugo-coder/) - A simple and clean blog theme for Hugo
 -   [cstate](https://github.com/cstate/cstate) - Über fast, backwards compatible (IE8+), tiny, and simple status page built with Hugo
+
+## Links
+
+-   [Dynamic Search in a Static Hugo Website](https://blog.jeremylikness.com/blog/dynamic-search-in-a-static-hugo-website/) by Jeremy Likness, 9 July 2019

@@ -41,23 +41,23 @@ module.exports = {
     ['/comp-sci/', '⬅️ Computer Science'],
     {
       title: 'Cooking',
-      icon: 'TODO',
+      icon: 'fas fa-cauldron',
       collapsable: false,
       children: getPages('cooking'),
     },
     {
-      title: 'Recipies',
+      title: 'Recipes',
       icon: 'TODO',
       collapsable: false,
       children:[
-        'cooking/recipies/desserts/',
+        'cooking/recipes/desserts/',
       ]
     },
     {
-      title: 'Dessert Recipies',
+      title: 'Dessert Recipes',
       icon: 'TODO',
       collapsable: false,
-      children: getPages('cooking/recipies/desserts'),
+      children: getPages('cooking/recipes/desserts'),
     }
     ['/databases/', '➡️ Databases'],
   ],

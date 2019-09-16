@@ -2,10 +2,9 @@ name: CI
 
 on: push
 
-runs-on: ubuntu-latest
-
 jobs:
   lint:
+    runs-on: ubuntu-latest
     name: "Lint check"
     steps:
     - name: Run ESLint

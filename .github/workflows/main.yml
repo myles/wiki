@@ -1,0 +1,13 @@
+name: CI
+
+on: push
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    name: "Lint check"
+    steps:
+    - name: Run ESLint
+      uses: stefanoeb/eslint-action@1.0.0
+    - name: Run Markdown Link Check
+      uses: gaurav-nelson/github-action-markdown-link-check@0.2.0

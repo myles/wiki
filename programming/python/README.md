@@ -19,6 +19,36 @@ Hi Laura Dang!
 
 -   [How To Use \*args and \*\*kwargs in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-args-and-kwargs-in-python-3) by Lisa Tagliaferri, 20 November 2017.
 
+### Bare asterisk (`*`) in function argument
+
+In Python 3 you can specify `*` in the argument list:
+
+> Parameters after "*" or "*identifier" are keyword-only parameters and may only be passed used keyword arguments.
+>
+> <cite><a href="https://docs.python.org/3.5/reference/compound_stmts.html#function-definitions">Python 3.5 Documentation</a></cite>
+
+```python
+>>> def is_birthday(*, birthday):
+...     today = datetime.date.today()
+...     if birthday.month == today.month and birthday.day == today.day:
+...         print(f"Yes it's their birthday.")
+...     else:
+...         print(f"No it's not their birthday.")
+...
+>>>
+>>> is_birthday(datetime.date(1986, 9, 19))
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: is_birthday() takes exactly 1 positional argument (1 given)
+>>>
+>>> is_birthday(birthday=datetime.date(1986, 9, 19))
+No it's not their birthday.
+>>>
+```
+
+-   Reference: [Forced naming of parameters in Python](https://stackoverflow.com/a/14298976) by Eli Bendersky, 12 January 2013.
+
+
 ## Libraries
 
 -   [Camelot](https://camelot-py.readthedocs.io/en/master/) - PDF Table Extraction for Humans - [:megaphone:](https://blog.socialcops.com/technology/engineering/camelot-python-library-pdf-data/ "Announcing Camelot, a Python Library to Extract Tabular Data from PDFs") [:octopus:](https://github.com/socialcopsdev/camelot/ "Camelot on GitHub") [:snake:](https://pypi.org/project/camelot-py/ "Camelot on PyPi")
@@ -51,3 +81,5 @@ Hi Laura Dang!
 -   [Text Preprocessing in Python: Steps, Tools, and Examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908) by Olga Davydova, 15 October 2018
 -   [Working efficiently with JupyterLab Notebooks](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/) by Florian Wilhelm, 8 November 2018.
 -   [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
+-   [Understanding the asterisk(*) of Python](https://medium.com/understand-the-python/understanding-the-asterisk-of-python-8b9daaa4a558) by mingrammer, 20 March 2017.
+

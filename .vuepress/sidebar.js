@@ -34,35 +34,37 @@ module.exports = {
       collapsable: false,
       children: getPages('comp-sci'),
     },
-    ['/cooking/', '➡️ Cooking'],
-  ],
-  '/cooking/': [
-    ['/', '⬆️ Home'],
-    ['/comp-sci/', '⬅️ Computer Science'],
-    {
-      title: 'Cooking',
-      icon: 'fas fa-cauldron',
-      collapsable: false,
-      children: getPages('cooking'),
-    },
-    {
-      title: 'Recipes',
-      icon: 'TODO',
-      collapsable: false,
-      children:[
-        'cooking/recipes/desserts/',
-      ]
-    },
-    {
-      title: 'Dessert Recipes',
-      icon: 'TODO',
-      collapsable: false,
-      children: getPages('cooking/recipes/desserts'),
-    }
     ['/databases/', '➡️ Databases'],
+    // ['/cooking/', '➡️ Cooking'],
   ],
+  // '/cooking/': [
+  //   ['/', '⬆️ Home'],
+  //   ['/comp-sci/', '⬅️ Computer Science'],
+  //   {
+  //     title: 'Cooking',
+  //     icon: 'fas fa-cauldron',
+  //     collapsable: false,
+  //     children: getPages('cooking'),
+  //   },
+  //   {
+  //     title: 'Recipes',
+  //     icon: 'TODO',
+  //     collapsable: false,
+  //     children:[
+  //       'cooking/recipes/desserts/',
+  //     ]
+  //   },
+  //   {
+  //     title: 'Dessert Recipes',
+  //     icon: 'TODO',
+  //     collapsable: false,
+  //     children: getPages('cooking/recipes/desserts'),
+  //   }
+  //   ['/databases/', '➡️ Databases'],
+  // ],
   '/databases/': [
     ['/', '⬆️ Home'],
+    // ['/cooking/', '⬅️ Cooking'],
     ['/comp-sci/', '⬅️ Computer Science'],
     {
       title: 'Databases',

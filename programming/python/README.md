@@ -48,6 +48,31 @@ No it's not their birthday.
 
 -   Reference: [Forced naming of parameters in Python](https://stackoverflow.com/a/14298976) by Eli Bendersky, 12 January 2013.
 
+### Coerce to `NamedTuple`
+
+```python
+from typing import Any, Dict, NamedTuple, Type
+
+
+class AlbumTuple(NamedTuple):
+    """Album Tuple Class."""
+    name: str
+    artist: str
+    length: float
+
+
+def coerce_to_namedtuple(d: Dict[str, Any], T: Type):
+    """Create a NamedTuple from a dict, ignoring extra keys in the dict"""
+    return T(**{k: v for k, v in d.items() if k in T._fields})
+
+
+album = dict(name="Liar", artist="Fake Shark - Real Zombie!", length=47.15)
+print(coerce_to_namedtuple(d, AlbumTuple))
+# output: AlbumTuple(name="Liar", artist="Fake Shark - Real Zombie!", length=47.15)
+```
+
+-   Reference: [coerce_to_namedtuple.py](https://gist.github.com/andymitchhank/7677786e1d49eda7f6b70002e74915f7) by [Andy Mitchhank](https://andymitchhank.com/)
+
 
 ## Libraries
 

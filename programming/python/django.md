@@ -17,3 +17,4 @@
 -   [Is your Django app slow? Think like a data scientist, not an engineer](https://dev.to/scoutapm/is-your-django-app-slow-think-like-a-data-scientist-not-an-engineer-5bnb) by Derek Haynes, 22 April 2019.
 -   [The Ultimate Guide to Django Redirects](https://realpython.com/django-redirects/) by Daniel Hepper, 15 August 2018.
 -   [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/) by Michael Herman, 13 August 2019. 
+-   [Django as a Microframework](https://github.com/wsvincent/django-microframework) - A single-page Django website as demoed by [Carlton Gibson at DjangoCon US 2019](https://www.youtube.com/watch?v=w9cYEovduWI)

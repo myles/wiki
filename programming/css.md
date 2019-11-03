@@ -13,3 +13,4 @@ Cascading Style Sheets (<dfn>CSS</dfn>) is a style sheet language used for descr
 -   [sass selectors: to nest or not to nest?](http://bradfrost.com/blog/post/sass-selectors-to-nest-or-not-to-nest/) by Brad Frost
 -   [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 -   [Variable Font Animation with CSS and Splitting JS](https://css-irl.info/variable-font-animation-with-css-and-splitting-js/) by Michelle Barker, 13 August 2019
+-   [Smoother & sharper shadows with layered box-shadows](https://tobiasahlin.com/blog/layered-smooth-box-shadows/) by Tobias Ahlin Bjerrome, 19 September 2019

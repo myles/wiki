@@ -1861,9 +1861,9 @@ chardet@^0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/chardet/-/chardet-0.7.0.tgz#90094849f0937f2eedc2425d0d28a9e5f0cbad9e"
 
-check-links@^1.1.7:
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/check-links/-/check-links-1.1.7.tgz#35d1d39b6a11bfd23bad74848a507e143743f7f9"
+check-links@^1.1.8:
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/check-links/-/check-links-1.1.8.tgz#842184178c85d9c2ab119175bcc2672681bc88a4"
   dependencies:
     got "^9.6.0"
     is-relative-url "^2.0.0"
@@ -4420,9 +4420,9 @@ is-object@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/is-object/-/is-object-1.0.1.tgz#8952688c5ec2ffd6b03ecc85e769e02903083470"
 
-is-online@^8.2.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/is-online/-/is-online-8.2.0.tgz#24970d5604919a60195f57508fca5dc6a4ead6f4"
+is-online@^8.2.1:
+  version "8.2.1"
+  resolved "https://registry.yarnpkg.com/is-online/-/is-online-8.2.1.tgz#855d0845c2f5be93625192838d82ce9cce29f7e3"
   dependencies:
     got "^9.6.0"
     p-any "^2.0.0"
@@ -6813,14 +6813,14 @@ remark-lint-no-blockquote-without-marker@^2.0.0:
     unist-util-visit "^1.1.1"
     vfile-location "^2.0.1"
 
-remark-lint-no-dead-urls@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-dead-urls/-/remark-lint-no-dead-urls-1.0.0.tgz#6aa12d636357304724040b76017f611461a7fd6a"
+remark-lint-no-dead-urls@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-dead-urls/-/remark-lint-no-dead-urls-1.0.1.tgz#c7c2be0eeef6e25ed29d76fac23726fc957b76f3"
   dependencies:
-    check-links "^1.1.7"
-    is-online "^8.2.0"
+    check-links "^1.1.8"
+    is-online "^8.2.1"
     unified-lint-rule "^1.0.4"
-    unist-util-visit "^2.0.0"
+    unist-util-visit "^2.0.1"
 
 remark-lint-no-duplicate-definitions@^1.0.0:
   version "1.0.3"
@@ -8377,9 +8377,9 @@ unist-util-visit@^1.0.0, unist-util-visit@^1.1.0, unist-util-visit@^1.1.1, unist
   dependencies:
     unist-util-visit-parents "^2.0.0"
 
-unist-util-visit@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-2.0.0.tgz#1fdae5ea88251651bfe49b7e84390d664fc227c5"
+unist-util-visit@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-2.0.1.tgz#b4e1c1cb414250c6b3cb386b8e461d79312108ae"
   dependencies:
     "@types/unist" "^2.0.0"
     unist-util-is "^4.0.0"

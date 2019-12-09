@@ -135,6 +135,7 @@ module.exports = {
         '/programming/css',
         '/programming/github',
         '/programming/go',
+        '/programming/graphql',
         '/programming/methodology',
         '/programming/r',
       ],

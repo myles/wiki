@@ -181,6 +181,7 @@ module.exports = {
         '/programming/python/jupyter',
         '/programming/python/pandas',
         '/programming/python/regexes',
+        '/programming/python/wagtail',
         '/programming/python/web-scraping',
       ],
     },

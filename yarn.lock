@@ -4858,6 +4858,14 @@ lodash.templatesettings@^4.0.0:
   dependencies:
     lodash._reinterpolate "^3.0.0"
 
+lodash.trimend@^4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/lodash.trimend/-/lodash.trimend-4.5.1.tgz#12804437286b98cad8996b79414e11300114082f"
+
+lodash.trimstart@^4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/lodash.trimstart/-/lodash.trimstart-4.5.1.tgz#8ff4dec532d82486af59573c39445914e944a7f1"
+
 lodash.uniq@^4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
@@ -8784,13 +8792,15 @@ vuepress-plugin-export@0.2.0:
     easy-pdf-merge "^0.2.0"
     puppeteer "^1.11.0"
 
-vuepress-plugin-feed@0.1.7:
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-feed/-/vuepress-plugin-feed-0.1.7.tgz#c819dc4a1a044b83f03e29e386a00e585a591916"
+vuepress-plugin-feed@0.1.8:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-feed/-/vuepress-plugin-feed-0.1.8.tgz#134c69f98c71994d17f926e3c7c2ad006f573195"
   dependencies:
     feed "2.0.4"
     lodash.defaultsdeep "4.6.1"
     lodash.isempty "4.4.0"
+    lodash.trimend "^4.5.1"
+    lodash.trimstart "^4.5.1"
     remove-markdown "0.3.0"
     striptags "3.1.1"
 

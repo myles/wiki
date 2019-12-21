@@ -4,7 +4,7 @@
     "fast-glob": "3.1.1",
     "vuepress": "1.2.0",
     "vuepress-plugin-export": "0.2.0",
-    "vuepress-plugin-feed": "0.1.7"
+    "vuepress-plugin-feed": "0.1.8"
   },
   "devDependencies": {
     "eslint": "6.6.0",

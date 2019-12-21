@@ -36,7 +36,7 @@ jobs:
         run: npm install
      
       - name: npm run-script lint
-        run: npm runc-script lint
+        run: npm run-script lint
       
       - name: npm run-script write-good
         run: npm run-script write-good

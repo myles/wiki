@@ -1,4 +1,4 @@
-name: CI
+name: CI/CD
 
 on: push
 
@@ -38,5 +38,5 @@ jobs:
       - name: npm run-script lint
         run: npm run-script lint
       
-      - name: npm run-script write-good
-        run: npm run-script write-good
+      #- name: npm run-script write-good
+      #  run: npm run-script write-good

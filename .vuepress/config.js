@@ -6,6 +6,10 @@ module.exports = {
     repo: 'myles/wiki',
     editLinks: true,
     lastUpdated: 'Last Updated',
+    algolia: {
+      apiKey: process.env.ALGOLIA_API_KEY || '',
+      indexName: process.env.ALGOLIA_INDEX_NAME || 'documents',
+    },
     plugins: {
       'vuepress-plugin-feed': {
         title: "Myles' Wiki",

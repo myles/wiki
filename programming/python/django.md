@@ -14,6 +14,7 @@
 
 ## Links
 
+-   [All You Need To Know About Prefetching in Django](https://hakibenita.com/all-you-need-to-know-about-prefetching-in-django "All You Need To Know About Prefetching in Django - How to use Prefetch to speed up queries in Django") by Haki Benita, 29 April 2017. 
 -   [Basic Performance Optimization in Django](https://medium.com/@ryleysill93/basic-performance-optimization-in-django-ebd19089a33f) by Ryley Sill, 6 January 2019.
 -   [Is your Django app slow? Think like a data scientist, not an engineer](https://dev.to/scoutapm/is-your-django-app-slow-think-like-a-data-scientist-not-an-engineer-5bnb) by Derek Haynes, 22 April 2019.
 -   [The Ultimate Guide to Django Redirects](https://realpython.com/django-redirects/) by Daniel Hepper, 15 August 2018.

@@ -7146,9 +7146,9 @@ remark-lint-no-blockquote-without-marker@^2.0.0:
     unist-util-visit "^1.1.1"
     vfile-location "^2.0.1"
 
-remark-lint-no-dead-urls@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-dead-urls/-/remark-lint-no-dead-urls-1.0.1.tgz#c7c2be0eeef6e25ed29d76fac23726fc957b76f3"
+remark-lint-no-dead-urls@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-dead-urls/-/remark-lint-no-dead-urls-1.0.2.tgz#707e96d296e2ce9269832a879853780cce282b57"
   dependencies:
     check-links "^1.1.8"
     is-online "^8.2.1"

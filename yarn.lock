@@ -5442,9 +5442,13 @@ mime@1.6.0, mime@^1.2.11:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/mime/-/mime-1.6.0.tgz#32cd9e5c64553bd58d19a568af452acff04981b1"
 
-mime@^2.0.3, mime@^2.3.1:
+mime@^2.0.3:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/mime/-/mime-2.4.0.tgz#e051fd881358585f3279df333fe694da0bcffdd6"
+
+mime@^2.4.4:
+  version "2.4.4"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-2.4.4.tgz#bd7b91135fc6b01cde3e9bae33d659b63d8857e5"
 
 mimic-fn@^1.0.0:
   version "1.2.0"
@@ -6869,11 +6873,7 @@ randomfill@^1.0.3:
     randombytes "^2.0.5"
     safe-buffer "^5.1.0"
 
-range-parser@^1.0.3:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/range-parser/-/range-parser-1.2.0.tgz#f49be6b487894ddc40dcc94a322f611092e00d5e"
-
-range-parser@~1.2.1:
+range-parser@^1.2.1, range-parser@~1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/range-parser/-/range-parser-1.2.1.tgz#3cf37023d199e1c24d1a55b84800c2f3e6468031"
 
@@ -9185,13 +9185,14 @@ webpack-chain@^6.0.0:
     deepmerge "^1.5.2"
     javascript-stringify "^2.0.1"
 
-webpack-dev-middleware@3.6.0, webpack-dev-middleware@^3.7.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-3.6.0.tgz#71f1b04e52ff8d442757af2be3a658237d53a3e5"
+webpack-dev-middleware@3.7.2, webpack-dev-middleware@^3.7.0:
+  version "3.7.2"
+  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-3.7.2.tgz#0019c3db716e3fa5cecbf64f2ab88a74bab331f3"
   dependencies:
     memory-fs "^0.4.1"
-    mime "^2.3.1"
-    range-parser "^1.0.3"
+    mime "^2.4.4"
+    mkdirp "^0.5.1"
+    range-parser "^1.2.1"
     webpack-log "^2.0.0"
 
 webpack-dev-server@^3.5.1:

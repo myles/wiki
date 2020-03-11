@@ -24,7 +24,7 @@
     "markdown-it-emoji": "1.4.0"
   },
   "resolutions": {
-    "webpack-dev-middleware": "3.6.0"
+    "webpack-dev-middleware": "3.7.2"
   },
   "scripts": {
     "build": "vuepress build .",

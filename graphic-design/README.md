@@ -15,3 +15,8 @@
 
 -   [Pen Plotters](pen-plotters.md)
 -   [Zine](zine.md)
+
+## Scripts
+
+-   [glitch-this](https://github.com/TotallyNotChase/glitch-this) - create glitched images and GIFs
+

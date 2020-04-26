@@ -156,7 +156,8 @@ module.exports = {
       children: [
         '/programming/js/',
         '/programming/js/nodejs',
-        '/programming/js/vuejs',
+        '/programming/js/vuejs/',
+        '/programming/js/vuejs/nuxtjs',
       ],
     },
     {

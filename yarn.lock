@@ -7132,12 +7132,13 @@ remark-cli@8.0.0:
     remark "^12.0.0"
     unified-args "^8.0.0"
 
-remark-lint-alphabetize-lists@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-alphabetize-lists/-/remark-lint-alphabetize-lists-2.0.1.tgz#ef1cce3546bac8731f12afcf97f1ed7c47d664d3"
+remark-lint-alphabetize-lists@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-alphabetize-lists/-/remark-lint-alphabetize-lists-3.0.0.tgz#34fa3f9c1eb715a787957cd5089c9c4bc7bf5c7d"
+  integrity sha512-iHR2thGCnkDFBsgAp1Fv9EMOLJk9rMzCMtob55Gy/Hsn9XREp3YwllvZ/t9Gp9RmV+mzS5OqaPJFL52z7xq48Q==
   dependencies:
     mdast-util-to-string "^1.0.0"
-    unified-lint-rule "^1.0.0"
+    unified-lint-rule "^1.0.5"
     unist-util-visit "^1.0.0"
 
 remark-lint-are-links-valid-alive@0.3.0:
@@ -8762,6 +8763,13 @@ unified-lint-rule@^1.0.0, unified-lint-rule@^1.0.1:
 unified-lint-rule@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/unified-lint-rule/-/unified-lint-rule-1.0.4.tgz#be432d316db7ad801166041727b023ba18963e24"
+  dependencies:
+    wrapped "^1.0.1"
+
+unified-lint-rule@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/unified-lint-rule/-/unified-lint-rule-1.0.5.tgz#41dcac68a283bfc4b4ff6014e370cc8931eb4b5d"
+  integrity sha512-jOPr/fx8lTzqszEfh46p99jUMqgPlIZ8rNKllEepumISvgfj9lUq1c7BSpVihr0L1df3lkjVHAThRPS7dIyjYg==
   dependencies:
     wrapped "^1.0.1"
 

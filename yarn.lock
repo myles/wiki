@@ -7420,9 +7420,10 @@ remark-stringify@^8.0.0:
     unherit "^1.0.4"
     xtend "^4.0.1"
 
-remark-validate-links@10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/remark-validate-links/-/remark-validate-links-10.0.0.tgz#a76f14dc9150d9af061115adbfe3efc6e54c1424"
+remark-validate-links@10.0.2:
+  version "10.0.2"
+  resolved "https://registry.yarnpkg.com/remark-validate-links/-/remark-validate-links-10.0.2.tgz#95e79194663cb5b0cb1ccfb86df1176a1759c65e"
+  integrity sha512-rcg/FFgowCbR7fC5aNhpJu8ltXuSGZZunwIwReXtdZ704XHsHR3Xsy4N8uso43ih5cY9maIydfn1FNLHW0016w==
   dependencies:
     github-slugger "^1.0.0"
     hosted-git-info "^3.0.0"

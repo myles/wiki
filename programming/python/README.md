@@ -96,6 +96,10 @@ print(coerce_to_namedtuple(d, AlbumTuple))
 -   [Luigi](https://luigi.readthedocs.io/en/stable/) - a Python module that helps you build complex pipelines of batch jobs - [:octopus:](https://github.com/spotify/luigi "Luigi on GitHub") [:snake:](https://pypi.org/project/luigi/' "Luigi on PyPi")
 -   [Vaex](https://vaex.io/) - visualize and explore big tabular data at a billion rows per second - [:bookmark_tabs:](https://docs.vaex.io/en/latest/ "Vaex documentation") [:octopus:](https://github.com/vaexio/vaex/ "Vaex on GitHub") [:snake:](https://pypi.org/project/vaex/ "Vaex on PyPi") [:megaphone:](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861 "Vaex: A DataFrame with super strings by Maarten Breddels")
 
+## Templates
+
+-   [Python Packages Project Generator](https://github.com/TezRomacH/python-package-template) - cookiecutter template for the most state-of-the-art libraries and best development practices for Python.
+
 ## Links
 
 -   [Detecting SQL injections in Python code using AST](https://rushter.com/blog/detecting-sql-injections-in-python/) by Artem Golubin, 29 April 2019

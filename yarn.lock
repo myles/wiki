@@ -980,11 +980,6 @@
   dependencies:
     "@vuepress/shared-utils" "1.5.2"
 
-"@vuepress/plugin-search@1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.4.0.tgz#26a02e3409e6ea6830f9fc7e6d87fc45ba46c579"
-  integrity sha512-5K02DL9Wqlfy/aNiYXdbXBOGzR9zMNKz/P8lfHDU+ZOjtfNf6ImAdUkHS4pi70YkkTuemdYM8JjG/j5UYn6Rjw==
-
 "@vuepress/plugin-search@1.5.2":
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.5.2.tgz#b8d77b4300b2e84f3c9c0d94f0a98638245196c2"
@@ -7307,9 +7302,10 @@ remark-lint-no-blockquote-without-marker@^3.0.0:
     unist-util-visit "^2.0.0"
     vfile-location "^3.0.0"
 
-remark-lint-no-dead-urls@1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-dead-urls/-/remark-lint-no-dead-urls-1.0.2.tgz#707e96d296e2ce9269832a879853780cce282b57"
+remark-lint-no-dead-urls@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-dead-urls/-/remark-lint-no-dead-urls-1.1.0.tgz#c3ba46ba0bf5f28e3789446295e27bcab68d4349"
+  integrity sha512-it3EZmMQ+hwGhUf60NkXN0mMIFuFkS0cxdbgEbhZ/Fj1PlUBpe3gDBtWJ/sqNwSNvQlNSzpvMQkNHSoAhlsVjA==
   dependencies:
     check-links "^1.1.8"
     is-online "^8.2.1"

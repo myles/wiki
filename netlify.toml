@@ -2,5 +2,6 @@
 ID = "myles-wiki"
 
 [build]
-  publish = ".vuepress/dist/"
-  command = "yarn run build"
+  publish = "_site/"
+  command = "bundle exec jekyll build"
+

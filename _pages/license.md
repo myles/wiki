@@ -1,4 +1,9 @@
-# License
+---
+layout: page
+title: License
+id: license
+permalink: /license.html
+---
 
 <!--lint disable alphabetize-lists-->
 

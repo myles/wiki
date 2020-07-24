@@ -10,10 +10,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@master
 
-      - name: Set Ruby v2.6
+      - name: Set Ruby v2.7.1
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: '2.6'
+          ruby-version: '2.7.1'
 
       - name: bundle install
         run: |

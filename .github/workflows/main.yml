@@ -1,4 +1,4 @@
-name: CI/CD
+name: CI
 
 on: push
 
@@ -9,34 +9,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@master
-        
-      - name: Set Node.js 10.x
-        uses: actions/setup-node@master
+
+      - name: Set Ruby v2.6
+        uses: actions/setup-ruby@v1
         with:
-          node-version: 10.x
-      
-      - name: npm install
-        run: npm install
-      
-      - name: npm run-script build
-        run: npm run-script build
-  lint:
-    name: "Lint Check"
-    runs-on: [ubuntu-latest]
-    steps:
-      - name: Checkout
-        uses: actions/checkout@master
-        
-      - name: Set Node.js 10.x
-        uses: actions/setup-node@master
-        with:
-          node-version: 10.x
-      
-      - name: npm install
-        run: npm install
-     
-      - name: npm run-script lint
-        run: npm run-script lint
-      
-      #- name: npm run-script write-good
-      #  run: npm run-script write-good
+          ruby-version: '2.6'
+
+      - name: bundle install
+        run: |
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+
+      - name: bundle exec jekyll build
+        run: bundle exec jekyll build

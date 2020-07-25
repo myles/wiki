@@ -1,4 +1,6 @@
-# Jupyter
+---
+title: Jupyter
+---
 
 <dfn>Jupyter</dfn> Notebook (formerly IPython Notebooks) is a web-based interactive computational environment for creating Jupyter notebooks documents.
 

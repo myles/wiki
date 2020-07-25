@@ -1,4 +1,6 @@
-# JavaScript
+---
+title: JavaScript
+---
 
 ## Libraries
 

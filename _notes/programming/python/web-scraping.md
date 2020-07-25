@@ -1,4 +1,6 @@
-# Web Scraping in Python
+---
+title: Web Scraping in Python
+---
 
 These are my notes on <dfn>Web Scraping in Python</dfn>
 

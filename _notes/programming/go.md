@@ -1,4 +1,6 @@
-# Go
+---
+title: Go
+---
 
 ## Books
 

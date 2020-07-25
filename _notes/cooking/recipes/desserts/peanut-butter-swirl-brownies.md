@@ -1,6 +1,8 @@
-# Peanut Butter Swirl Brownies
+---
+title: Peanut Butter Swirl Brownies
+---
 
-I found this recipie on [Tasty's iOS application](https://tasty.co/recipe/peanut-butter-swirl-brownies "Peanut Butter Swirl Brownies"). 
+I found this recipie on [Tasty's iOS application](https://tasty.co/recipe/peanut-butter-swirl-brownies "Peanut Butter Swirl Brownies").
 
 ## Ingredients
 

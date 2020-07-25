@@ -1,4 +1,6 @@
-# Adobe Illustrator
+---
+title: Adobe Illustrator
+---
 
 <dfn>Adobe Illustrator</dfn> is a vector graphics editor.
 

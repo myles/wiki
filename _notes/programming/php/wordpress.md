@@ -1,7 +1,9 @@
-# WordPress
+---
+title: WordPress
+---
 
 <dfn>WordPress</dfn> is an open source content management system based on
-[PHP](README.md) and [MySQL](../../databases/mysql.md).
+[PHP](index){: .internal-link} and [MySQL](../../databases/mysql){: .internal-link}.
 
 ## Plugins
 

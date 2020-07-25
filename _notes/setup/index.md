@@ -1,4 +1,6 @@
-# Setup
+---
+title: Setup
+---
 
 A list of the applications, tools, and services that I'm currently using.
 

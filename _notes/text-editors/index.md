@@ -1,3 +1,5 @@
-# Text Editors
+---
+title: Text Editors
+---
 
--   [Visual Studio Code](vscode.md)
+-   [Visual Studio Code](vscode){: .internal-link}

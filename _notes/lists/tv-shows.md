@@ -1,3 +1,5 @@
-# TV Shows to Binge :television:
+---
+title: TV Shows to Binge
+---
 
 -   [ ] Eli Stone (2008, 2009)

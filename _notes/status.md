@@ -1,4 +1,6 @@
-# Status
+---
+title: Status
+---
 
 -   :headphone: Currently listening to **My Finest Work Yet** by Andrew Bird
 -   :joystick: Currently playing **Space Age**

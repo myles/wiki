@@ -1,4 +1,6 @@
-# Hugo
+---
+title: Hugo
+---
 
 <dfn>Hugo</dfn> is a static site generator written in Go.
 
@@ -18,4 +20,3 @@
 -   [hugo-best-practices](https://github.com/spech66/hugo-best-practices) by Sebastian Pech
 -   [Hugo Pipes Revolution](https://regisphilibert.com/blog/2018/07/hugo-pipes-and-asset-processing-pipeline/) by Rēgis Philibert, 19 July 2018
 -   [Why you should create your website with Academic and Hugo](https://georgecushen.com/create-your-website-with-hugo/) by George Cushen, 13 July 2019
-

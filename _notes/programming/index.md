@@ -1,18 +1,20 @@
-# Programming
+---
+title: Programming
+---
 
 Computer <dfn>programming</dfn> is the act of instructing computers to perform tasks.
 
 ## Languages
 
--   [CSS](css.md)
--   [Go](go.md)
--   [JavaScript](js/README.md)
--   [PHP](php/README.md)
--   [Python](python/README.md)
+-   [CSS](css){: .internal-link}
+-   [Go](go){: .internal-link}
+-   [JavaScript](js/index){: .internal-link}
+-   [PHP](php/index){: .internal-link}
+-   [Python](python/index){: .internal-link}
 
 ## See Also
 
--   [Computer Science](../comp-sci/README.md)
--   [Methodology](methodology.md)
--   [Static Website Generators](static-website-generators/README.md)
--   [Text Editors](../text-editors/README.md)
+-   [Computer Science](../comp-sci/index){: .internal-link}
+-   [Methodology](methodology){: .internal-link}
+-   [Static Website Generators](static-website-generators/index){: .internal-link}
+-   [Text Editors](../text-editors/index){: .internal-link}

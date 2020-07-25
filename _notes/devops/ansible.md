@@ -1,4 +1,6 @@
-# Ansible
+---
+title: Ansible
+---
 
 <dfn>Ansible</dfn> is a software that automates software provisioning, configuration management, and application deployment.
 

@@ -6,23 +6,48 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-algolia
+  - jemoji
+
+exclude:
+  - .bundle/
+  - .cache/
+  - .github/
+  - .jekyll-cache/
+  - .gitattributes
+  - .gitignore
+  - .ruby-version
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - netlify.toml
+  - README.md
+  - renovate.json
 
 sass:
   sass_dir: _sass
   style: compressed
 
 collections:
+
   notes:
     output: true
     permalink: /:path
 
 defaults:
+
   - scope:
       path: "**/*"
     values:
       layout: "default"
+
   - scope:
       path: "_notes/**/*.md"
     values:
       layout: "note"
 
+algolia:
+  application_id: "M4EQREL68G"
+  index_name: wiki

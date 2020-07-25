@@ -1,1 +1,3 @@
-# Microsoft Windows Setup
+---
+title: Microsoft Windows Setup
+---

@@ -1,4 +1,6 @@
-# Zine
+---
+title: Zine
+---
 
 A <dfn>zine</dfn> is a small-circulation self-published work of orginal or appropriated texts and images, usually reproduced via photocopier.
 

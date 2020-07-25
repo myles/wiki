@@ -1,4 +1,6 @@
-# pandas
+---
+title: pandas
+---
 
 <dfn>pandas</dfn> is a [Python][1] library for data manipulation and analysis.
 

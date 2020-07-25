@@ -2,7 +2,7 @@
 layout: page
 title: License
 id: license
-permalink: /license.html
+permalink: /license
 ---
 
 <!--lint disable alphabetize-lists-->

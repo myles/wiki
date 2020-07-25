@@ -1,4 +1,6 @@
-# Python
+---
+title: Python
+---
 
 <dfn>Python</dfn> is a programming language.
 
@@ -112,4 +114,3 @@ print(coerce_to_namedtuple(d, AlbumTuple))
 -   [Working efficiently with JupyterLab Notebooks](https://florianwilhelm.info/2018/11/working_efficiently_with_jupyter_lab/) by Florian Wilhelm, 8 November 2018.
 -   [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
 -   [Understanding the asterisk(*) of Python](https://medium.com/understand-the-python/understanding-the-asterisk-of-python-8b9daaa4a558) by mingrammer, 20 March 2017.
-

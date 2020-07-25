@@ -1,4 +1,6 @@
-# Windows
+---
+title: Windows
+---
 
 Microsoft <dfn>Windows</dfn> is a group of several graphical operating system families, all of which are developed, marketed and sold by Microsoft.
 

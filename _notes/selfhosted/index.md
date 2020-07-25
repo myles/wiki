@@ -1,4 +1,6 @@
-# Selfhosted
+---
+title: Selfhosted
+---
 
 <dfn>Selfhosting</dfn> is the process of locally hosting and managing applications instead of renting from SaaS providers.
 
@@ -22,4 +24,3 @@
 [4]: https://github.com/Piwigo
 
 [5]: https://github.com/Kickball/awesome-selfhosted
-

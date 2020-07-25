@@ -1,1 +1,3 @@
-# Video Games to Play :joystick:
+---
+title: Video Games to Play
+---

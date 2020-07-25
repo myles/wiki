@@ -1,4 +1,6 @@
-# Pen Plotters
+---
+title: Pen Plotters
+---
 
 ## Links
 

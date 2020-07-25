@@ -15,10 +15,13 @@ jobs:
         with:
           ruby-version: '2.7.1'
 
-      - name: bundle install
+      - name: Install Bundler
         run: |
           gem install bundler
-          bundle install --jobs 4 --retry 3
+          bundle update --bundler
 
-      - name: bundle exec jekyll build
+      - name: Bundle Install
+        run: bundle install --jobs 4 --retry 3
+
+      - name: Jekyll Build
         run: bundle exec jekyll build

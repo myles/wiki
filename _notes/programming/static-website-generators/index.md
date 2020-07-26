@@ -1,5 +1,7 @@
 ---
 title: Static Website Generators
+order: 0
+section: programming--static-websie-generators
 ---
 
 I keep a list of [Static Website Generators on GitHub](https://github.com/myles/awesome-static-generators/blob/master/index){: .internal-link}.

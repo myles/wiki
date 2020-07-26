@@ -1,5 +1,7 @@
 ---
 title: Programming
+order: 0
+section: programming
 ---
 
 Computer <dfn>programming</dfn> is the act of instructing computers to perform tasks.

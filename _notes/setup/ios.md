@@ -1,5 +1,6 @@
 ---
 title: iOS Applications
+section: setup
 ---
 
 Applications that I am currently using on [iOS][1].

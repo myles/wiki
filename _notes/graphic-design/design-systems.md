@@ -1,5 +1,6 @@
 ---
 title: Design Systems
+section: graphic-design
 ---
 
 ## Links

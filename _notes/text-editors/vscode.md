@@ -1,5 +1,6 @@
 ---
 title: Visual Studio Code
+section: text-editors
 ---
 
 <dfn>Visual Studio Code</dfn> is a text editor for Linux, Windows, and macOS.

@@ -1,5 +1,7 @@
 ---
 title: Raspberry Pi
+order: 0
+section: raspberry-pi
 ---
 
 <dfn>Raspberry Pi</dfn> is a series of small single-board computers developed in the UK by the _Raspberry Pi Foundation_ to promte teaching of basic computer science in schools and in developing countries.

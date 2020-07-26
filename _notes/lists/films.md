@@ -1,5 +1,6 @@
 ---
 title: Film to Watch
+section: lists
 ---
 
 -   [ ] Birds of Passage

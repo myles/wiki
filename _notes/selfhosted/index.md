@@ -1,5 +1,7 @@
 ---
 title: Selfhosted
+order: 0
+section: selfhosted
 ---
 
 <dfn>Selfhosting</dfn> is the process of locally hosting and managing applications instead of renting from SaaS providers.

@@ -1,5 +1,6 @@
 ---
 title: macOS Setup
+section: setup
 ---
 
 ## Development

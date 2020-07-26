@@ -1,5 +1,6 @@
 ---
 title: pandas
+section: programming--python
 ---
 
 <dfn>pandas</dfn> is a [Python][1] library for data manipulation and analysis.

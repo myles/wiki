@@ -1,5 +1,6 @@
 ---
 title: SVG
+section: graphic-design
 ---
 
 ## Links

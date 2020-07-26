@@ -1,5 +1,6 @@
 ---
 title: Go
+section: programming
 ---
 
 ## Books

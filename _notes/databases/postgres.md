@@ -1,5 +1,6 @@
 ---
 title: Postgres
+section: databases
 ---
 
 <dfn>Postgres</dfn> is an object-relational database management system with an emphasis on extensibility and standards compliance.

@@ -1,5 +1,6 @@
 ---
 title: Nuxt.js
+section: programming--javascript--vuejs
 ---
 
 Nuxt.js is a free and open source web application framework based on [Vue.js](./index){: .internal-link}, [Node.js](../nodejs){: .internal-link}, Webpack and Babel.js.

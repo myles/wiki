@@ -1,5 +1,7 @@
 ---
 title: Dat Protocol
+order: 0
+section: dat
 ---
 
 <dfn>Dat</dfn> is a protocol for sharing data between computers.

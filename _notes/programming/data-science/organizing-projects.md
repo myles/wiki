@@ -1,5 +1,6 @@
 ---
 title: Organizing Data Science Projects
+section: programming--data-science
 ---
 
 This is a living document[^1] on how I organize and manage my [Data Science](./index){: .internal-link} projects.

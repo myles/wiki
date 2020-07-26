@@ -1,5 +1,7 @@
 ---
 title: Python
+order: 0
+section: programming--python
 ---
 
 <dfn>Python</dfn> is a programming language.

@@ -1,5 +1,6 @@
 ---
 title: WordPress
+section: programming--php
 ---
 
 <dfn>WordPress</dfn> is an open source content management system based on

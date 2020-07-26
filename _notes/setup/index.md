@@ -1,5 +1,7 @@
 ---
 title: Setup
+order: 0
+section: setup
 ---
 
 A list of the applications, tools, and services that I'm currently using.

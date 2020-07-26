@@ -1,5 +1,6 @@
 ---
 title: Adobe Illustrator
+section: graphic-design
 ---
 
 <dfn>Adobe Illustrator</dfn> is a vector graphics editor.

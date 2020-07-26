@@ -1,5 +1,7 @@
 ---
 title: Vue.js
+order: 0
+section: programming--javascript--vuejs
 ---
 
 ## Libraries

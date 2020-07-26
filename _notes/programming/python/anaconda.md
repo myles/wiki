@@ -1,5 +1,6 @@
 ---
 title: Anaconda
+section: programming--python
 ---
 
 <def>Anaconda</def> is a free and open-source,distribution of the [Python](index){: .internal-link} and [R](../r.md "R Programming Language") programming languages for scientific computing ([data science](../data-science){: .internal-link}, [machine learning](../../comp-sci/ml){: .internal-link} applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment.

@@ -1,5 +1,7 @@
 ---
 title: JavaScript
+order: 0
+section: programming--javascript
 ---
 
 ## Libraries

@@ -36,8 +36,7 @@ collections:
   notes:
     output: true
     permalink: /:path
-    order:
-      - index.md
+    sort_by: order
 
 defaults:
 

@@ -1,23 +1,7 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
+# Myles' Digital Garden
 
-# Digital garden Jekyll template
-
-Use this template repository to get started with your own digital garden.
-
-**I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
-
-Preview the template here: https://digital-garden-jekyll-template.netlify.app/
-
-- Based on Jekyll, a static website generator
-- Supports Roam-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Includes graph visualization of the notes and their links
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
-
-<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
+:wave: Hi! This is the source code for [my digital garden](https://myles.wiki/), kind of like a wiki but different. It's built using Jekyll and [Maxime Vaillancourt](https://maximevaillancourt.com/)'s [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 ## License
 
-Source code is available under the [MIT license](LICENSE){: .internal-link}.
+The soruce code is available under the [MIT License](LICENSE) and the notes are under [Creative Commons License](_pages/license.md).

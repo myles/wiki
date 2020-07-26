@@ -9,6 +9,7 @@ gem "jekyll", "~> 4.0"
 group :jekyll_plugins do
   gem "jekyll-last-modified-at"
   gem "jekyll-relative-links"
+  gem "jekyll-typogrify"
   gem "jekyll-seo-tag"
   gem "jekyll-algolia"
   gem "jemoji"

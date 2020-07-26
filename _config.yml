@@ -7,6 +7,7 @@ relative_permalinks: false
 plugins:
   - jekyll-last-modified-at
   - jekyll-relative-links
+  - jekyll-typogrify
   - jekyll-seo-tag
   - jekyll-algolia
   - jemoji
@@ -35,6 +36,8 @@ collections:
   notes:
     output: true
     permalink: /:path
+    order:
+      - index.md
 
 defaults:
 

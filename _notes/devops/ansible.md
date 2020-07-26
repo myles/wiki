@@ -14,6 +14,7 @@ section: devops
 
 Variables:
 
+{% raw %}
 ```yaml
 users:
   - username: myles
@@ -23,9 +24,11 @@ users:
       - "{{ lookup('file', 'ssh_keys/myles_ipad.pub') }}"
       - "{{ lookup('file', 'ssh_keys/myles_iphone.pub') }}"
 ```
+{% endraw %}
 
 Tasks:
 
+{% raw %}
 ```yaml
 - name: add ~/.ssh/authorized_keys file for the user accounts
   authorized_key:
@@ -38,3 +41,4 @@ Tasks:
     - common
     - users
 ```
+{% endraw %}

@@ -980,11 +980,6 @@
   dependencies:
     "@vuepress/shared-utils" "1.5.2"
 
-"@vuepress/plugin-search@1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.4.0.tgz#26a02e3409e6ea6830f9fc7e6d87fc45ba46c579"
-  integrity sha512-5K02DL9Wqlfy/aNiYXdbXBOGzR9zMNKz/P8lfHDU+ZOjtfNf6ImAdUkHS4pi70YkkTuemdYM8JjG/j5UYn6Rjw==
-
 "@vuepress/plugin-search@1.5.2":
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.5.2.tgz#b8d77b4300b2e84f3c9c0d94f0a98638245196c2"
@@ -9366,9 +9361,10 @@ vuepress-plugin-export@0.2.0:
     easy-pdf-merge "^0.2.0"
     puppeteer "^1.11.0"
 
-vuepress-plugin-feed@0.1.8:
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-feed/-/vuepress-plugin-feed-0.1.8.tgz#134c69f98c71994d17f926e3c7c2ad006f573195"
+vuepress-plugin-feed@0.1.9:
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-feed/-/vuepress-plugin-feed-0.1.9.tgz#706fc381c1831c110d161b7e892057750c8904da"
+  integrity sha512-iOJkR7zPmJAX0TEVdxNsUT07xNQB6lZFpU7DqsYzO01FhaPkMOOVM5Vx5a/iOOuOggAeoI9H9yuah+cRmCImlw==
   dependencies:
     feed "2.0.4"
     lodash.defaultsdeep "4.6.1"

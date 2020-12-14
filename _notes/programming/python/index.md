@@ -91,6 +91,7 @@ print(coerce_to_namedtuple(d, AlbumTuple))
 -   [tartiflette](https://tartiflette.io/) - Tartiflette is a GraphQL Engine, built on top of Python 3.6 and above. Focused on building GraphQL APIs using the awesome Schema Definition Language. - [:octopus:](https://github.com/dailymotion/tartiflette "tartiflette on GitHub") [:snake:](https://pypi.org/project/tartiflette/ "tartiflette on PyPi")
 -   [yaps](https://ibm.github.io/yaps/) - a surface language for programming Stan models using python syntax - [:octopus:](https://github.com/ibm/yaps "yaps on GitHub")
 -   [Typer](https://typer.tiangolo.com/) - Typer is library to build CLI applications that users will love using and developers will love creating. - [:octopus:](https://github.com/tiangolo/typer "Typer on GitHub")
+-   [Rich](https://rich.readthedocs.io/en/latest/) - Rich is a Python library for rich text and beautiful formatting in the terminal. - [:octopus:](https://github.com/willmcgugan/rich "Rich on GitHub")
 
 ### Data Science
 

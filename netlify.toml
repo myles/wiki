@@ -2,6 +2,5 @@
 ID = "myles-wiki"
 
 [build]
-  publish = "_site/"
-  command = "bundle exec jekyll build"
-
+  publish = "dist/"
+  command = "npm run generate"

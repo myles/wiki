@@ -9,5 +9,5 @@ After seeing [Nikita Voloboev](https://nikitavoloboev.xyz/)'s [GitBook](https://
 
 ## How it's Built
 
-This wiki is built using [Jekyll](https://jekyllrb.org/) and hosted on
+This wiki is built using [Nuxt.js](https://nuxtjs.org/) and hosted on
 [Netlify](https://netlify.com/).

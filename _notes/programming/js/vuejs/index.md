@@ -1,7 +1,8 @@
 ---
 title: Vue.js
-order: 0
-section: programming--javascript--vuejs
+permalink: /programming/javascript/vuejs
+parent: programming--javascript
+children: programming--javascript--vuejs
 ---
 
 ## Libraries

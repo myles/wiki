@@ -1,6 +1,6 @@
 ---
 title: Go
-section: programming
+parent: programming
 ---
 
 ## Books

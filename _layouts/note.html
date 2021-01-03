@@ -17,14 +17,66 @@ layout: default
     </content>
 
     <side style="font-size: 0.9em">
-      <h3 style="margin-bottom: 1em">Pages</h3>
-      {% if page.section %}
-        {% assign pages = site.notes | where: 'section', page.section | sort_natural: 'order' %}
-        {% for page in pages %}
+      {% if page.children %}
+        {% assign children = site.notes | where: 'parent', page.children | sort_natural: 'title' %}
+
+        {% if page.parent %}
+          {% assign parent = site.notes | where: 'children', page.parent | first %}
           <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
-            <a class="internal-link" href="{{ page.url }}">
-                {{ page.title }}
-              </a>
+            <a class="internal-link" href="{{ parent.url }}">
+              {% if parent.sidebar_title %}
+                {{ parent.sidebar_title }}
+              {% else %}
+                {{ parent.title }}
+              {% endif %}
+            </a>
+          </div>
+        {% endif %}
+
+        <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+          <a class="internal-link" href="{{ page.url }}">
+            {% if page.sidebar_title %}
+              {{ page.sidebar_title }}
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+          </a>
+        </div>
+
+        {% for child in children %}
+          <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+            <a class="internal-link" href="{{ child.url }}">
+              {% if child.sidebar_title %}
+                {{ child.sidebar_title }}
+              {% else %}
+                {{ child.title }}
+              {% endif %}
+            </a>
+          </div>
+        {% endfor %}
+      {% elsif page.parent %}
+        {% assign parent = site.notes | where: 'children', page.parent | first %}
+        {% assign siblings = site.notes | where: 'parent', page.parent | sort_natural: 'title' %}
+
+        <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+            <a class="internal-link" href="{{ parent.url }}">
+                {% if parent.sidebar_title %}
+                {{ parent.sidebar_title }}
+                {% else %}
+                {{ parent.title }}
+                {% endif %}
+            </a>
+        </div>
+
+        {% for sibling in siblings %}
+          <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+            <a class="internal-link" href="{{ sibling.url }}">
+              {% if sibling.sidebar_title %}
+                {{ sibling.sidebar_title }}
+              {% else %}
+                {{ sibling.title }}
+              {% endif %}
+            </a>
           </div>
         {% endfor %}
       {% endif %}

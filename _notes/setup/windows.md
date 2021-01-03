@@ -1,4 +1,4 @@
 ---
 title: Microsoft Windows Setup
-section: setup
+parent: setup
 ---

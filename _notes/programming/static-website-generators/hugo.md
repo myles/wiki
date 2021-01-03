@@ -1,6 +1,6 @@
 ---
 title: Hugo
-section: programming--static-websie-generators
+parent: programming--static-websie-generators
 ---
 
 <dfn>Hugo</dfn> is a static site generator written in Go.

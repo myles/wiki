@@ -1,6 +1,6 @@
 ---
 title: VuePress
-section: programming--static-websie-generators
+parent: programming--static-websie-generators
 ---
 
 ## Links

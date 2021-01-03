@@ -1,6 +1,6 @@
 ---
 title: Design Systems
-section: graphic-design
+parent: graphic-design
 ---
 
 ## Links

@@ -1,6 +1,6 @@
 ---
 title: iOS Applications
-section: setup
+parent: setup
 ---
 
 Applications that I am currently using on [iOS][1].

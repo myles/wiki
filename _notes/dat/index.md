@@ -1,7 +1,8 @@
 ---
 title: Dat Protocol
-order: 0
-section: dat
+permalink: /dat
+parent: top
+children: dat
 ---
 
 <dfn>Dat</dfn> is a protocol for sharing data between computers.

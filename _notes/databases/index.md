@@ -1,7 +1,8 @@
 ---
 title: Databases
-oder: 0
-section: databases
+permalink: /databases
+parent: top
+children: databases
 ---
 
 A <dfn>database</dfn> is an organized collection of data, stored and accessed electronically.

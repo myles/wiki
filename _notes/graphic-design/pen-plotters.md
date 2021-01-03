@@ -1,6 +1,6 @@
 ---
 title: Pen Plotters
-section: graphic-design
+parent: graphic-design
 ---
 
 ## Links

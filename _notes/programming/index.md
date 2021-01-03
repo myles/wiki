@@ -1,7 +1,8 @@
 ---
 title: Programming
-order: 0
-section: programming
+permalink: /programming
+parent: top
+children: programming
 ---
 
 Computer <dfn>programming</dfn> is the act of instructing computers to perform tasks.

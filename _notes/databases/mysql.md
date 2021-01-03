@@ -1,6 +1,6 @@
 ---
 title: MySQL
-section: databases
+parent: databases
 ---
 
 <dfn>MySQL</dfn> is an open source RDBMS.

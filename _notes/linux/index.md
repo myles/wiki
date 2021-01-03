@@ -1,7 +1,8 @@
 ---
 title: Linux
-order: 0
-section: linux
+permalink: /linux
+parent: top
+children: linux
 ---
 
 <dfn>Linux</dfn> is a family of free and open-source software operating systems built around the Linux kernel.

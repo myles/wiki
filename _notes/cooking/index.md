@@ -1,7 +1,8 @@
 ---
 title: Cooking
-order: 0
-section: cooking
+parent: top
+permalink: /cooking
+children: cooking
 ---
 
 

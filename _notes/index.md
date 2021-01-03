@@ -1,10 +1,10 @@
 ---
 layout: note
-title: Home
+title: Welcome to my Digital Garden
+sidebar_title: Home
 permalink: /
+children: top
 ---
-
-# Welcome to my Digital Garden
 
 ![Deadpool Waving Hello](./assets/gifs/deadpool-waving-hello.gif)
 

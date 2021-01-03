@@ -1,6 +1,6 @@
 ---
 title: Web Scraping in Python
-section: programming--python
+parent: programming--python
 ---
 
 These are my notes on <dfn>Web Scraping in Python</dfn>

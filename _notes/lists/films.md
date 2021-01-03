@@ -1,6 +1,6 @@
 ---
 title: Film to Watch
-section: lists
+parent: lists
 ---
 
 -   [ ] Birds of Passage

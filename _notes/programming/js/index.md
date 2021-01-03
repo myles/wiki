@@ -1,7 +1,8 @@
 ---
 title: JavaScript
-order: 0
-section: programming--javascript
+permalink: /programming/javascript
+parent: programming
+children: programming--javascript
 ---
 
 ## Libraries

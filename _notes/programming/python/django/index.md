@@ -1,6 +1,6 @@
 ---
 title: django
-section: programming--python
+parent: programming--python
 ---
 
 <dfn>django</dfn> is a [Python](index){: .internal-link}-based free and open-source web framework, which follows the model-view-template (MVT) architectural pattern.

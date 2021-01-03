@@ -1,6 +1,6 @@
 ---
 title: Fire OS
-topic: android
+parent: android
 ---
 
 <dfn>Fire OS</dfn> is an [Android](index){: .internal-link}-based operating system built by Amazon.

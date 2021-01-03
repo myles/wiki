@@ -1,6 +1,6 @@
 ---
 title: GitHub
-section: programming
+parent: programming
 ---
 
 <dfn>GitHub</dfn> is a web-based hosting service for version control using Git.

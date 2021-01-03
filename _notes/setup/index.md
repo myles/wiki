@@ -1,7 +1,8 @@
 ---
 title: Setup
-order: 0
-section: setup
+permalink: /setup
+parent: top
+children: setup
 ---
 
 A list of the applications, tools, and services that I'm currently using.

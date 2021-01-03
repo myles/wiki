@@ -1,7 +1,8 @@
 ---
 title: UNIX
-order: 0
-section: unix
+permalink: /unix
+parent: top
+children: unix
 ---
 
 ## Applications

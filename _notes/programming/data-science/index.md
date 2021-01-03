@@ -1,7 +1,7 @@
 ---
 title: Data Science
-order: 0
-section: programming--data-science
+parent: programming
+children: programming--data-science
 ---
 
 <dfn>Data science</dfn> is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.

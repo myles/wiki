@@ -35,8 +35,8 @@ collections:
 
   notes:
     output: true
-    permalink: /:path
-    sort_by: order
+    permalink: /:path/
+    sort_by: title
 
 defaults:
 

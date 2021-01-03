@@ -1,7 +1,8 @@
 ---
 title: Python
-order: 0
-section: programming--python
+permalink: /programming/python
+parent: programming
+children: programming--python
 ---
 
 <dfn>Python</dfn> is a programming language.

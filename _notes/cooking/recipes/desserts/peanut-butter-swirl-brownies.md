@@ -1,6 +1,6 @@
 ---
 title: Peanut Butter Swirl Brownies
-section: cooking--recipes--desserts
+parent: cooking--recipes--desserts
 ---
 
 I found this recipie on [Tasty's iOS application](https://tasty.co/recipe/peanut-butter-swirl-brownies "Peanut Butter Swirl Brownies").

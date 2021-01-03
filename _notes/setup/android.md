@@ -1,4 +1,4 @@
 ---
 title: Android
-section: setup
+parent: setup
 ---

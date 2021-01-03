@@ -1,6 +1,6 @@
 ---
 title: Celery
-section: programming--python
+parent: programming--python
 ---
 
 <dfn>Celery</dfn> is a [Python](index){: .internal-link} library for asynchronous task queue or job queue which is based on distributed message passing.

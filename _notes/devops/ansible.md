@@ -1,6 +1,6 @@
 ---
 title: Ansible
-section: devops
+parent: devops
 ---
 
 <dfn>Ansible</dfn> is a software that automates software provisioning, configuration management, and application deployment.

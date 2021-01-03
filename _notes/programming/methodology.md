@@ -1,6 +1,6 @@
 ---
 title: Methodology
-section: programming
+parent: programming
 ---
 
 ## Links

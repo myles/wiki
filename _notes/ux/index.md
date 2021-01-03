@@ -1,7 +1,8 @@
 ---
 title: User Experience (UX)
-order: 0
-section: ux
+permalink: /ux
+parent: top
+children: ux
 ---
 
 > _User experience_ encompasses all aspects of the end-user's interaction with the companyu, its services, and its products.

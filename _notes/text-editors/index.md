@@ -1,7 +1,8 @@
 ---
 title: Text Editors
-order: 0
-section: text-editors
+permalink: /text-editors
+parent: top
+children: text-editors
 ---
 
 -   [Visual Studio Code](vscode){: .internal-link}

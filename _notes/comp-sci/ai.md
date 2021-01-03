@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence
-section: comp-sci
+parent: comp-sci
 ---
 
 Artificial intelligence (<dfn>AI</dfn>) is a term for simulated intelligence in machines. These machines are programmed to _think_ like a human and mimic the way a person acts.

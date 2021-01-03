@@ -1,6 +1,6 @@
 ---
 title: Zine
-section: graphic-design
+parent: graphic-design
 ---
 
 A <dfn>zine</dfn> is a small-circulation self-published work of orginal or appropriated texts and images, usually reproduced via photocopier.

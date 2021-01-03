@@ -3,4 +3,4 @@ ID = "myles-wiki"
 
 [build]
   publish = "dist/"
-  command = "npm run generate"
+  command = "npm run build"

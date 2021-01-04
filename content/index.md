@@ -1,14 +1,10 @@
 ---
-layout: note
 title: Welcome to my Digital Garden
-sidebar_title: Home
-permalink: /
-children: top
 ---
 
-![Deadpool Waving Hello](./assets/gifs/deadpool-waving-hello.gif)
+![Deadpool Waving Hello](/assets/gifs/deadpool-waving-hello.gif)
 
-:wave:, welcome to my personal wiki (also know as a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)) where I try and share everything I research and know about a variety of topics.
+👋, welcome to my personal wiki (also know as a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)) where I try and share everything I research and know about a variety of topics.
 
 * * *
 
@@ -17,4 +13,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 * * *
 
-![Rory Gilmore Droping Backpacks](./assets/gifs/droping-backpacks.gif)
+![Rory Gilmore Droping Backpacks](/assets/gifs/droping-backpacks.gif)

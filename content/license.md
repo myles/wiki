@@ -1,8 +1,5 @@
 ---
-layout: page
 title: License
-id: license
-permalink: /license
 ---
 
 <!--lint disable alphabetize-lists-->

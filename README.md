@@ -1,14 +1,22 @@
-# Myles' Wiki :books:
+# Myles' Digital Garden
 
-![Deadpool Waving Hello](./assets/gifs/deadpool-waving-hello.gif)
+:wave: Hi! This is the source code for [my digital garden](https://myles.wiki/), kind of like a wiki but different.
 
-:wave:, welcome to my personal wiki (also know as a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)) where I try and share everything I research and know about a variety of topics.
+## Build Setup
 
-* * *
+```bash
+# install dependencies
+$ npm install
 
-[![](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons Licence")](https://wiki.mylesb.ca/license.html "Creative Commons Attribution 4.0 International License")
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-* * *
+# build for production and launch server
+$ npm run build
+$ npm run start
 
-![Rory Gilmore Droping Backpacks](./assets/gifs/droping-backpacks.gif)
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

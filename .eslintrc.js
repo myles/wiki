@@ -1,23 +1,17 @@
 module.exports = {
+  root: true,
   env: {
     browser: true,
-    es6: true,
+    node: true,
   },
   extends: [
-    'plugin:vue/essential',
-    'airbnb-base',
+    "@nuxtjs/eslint-config-typescript",
+    "prettier",
+    "prettier/vue",
+    "plugin:prettier/recommended",
+    "plugin:nuxt/recommended",
   ],
-  globals: {
-    Atomics: 'readonly',
-    SharedArrayBuffer: 'readonly',
-  },
-  parserOptions: {
-    ecmaVersion: 2018,
-    sourceType: 'module',
-  },
-  plugins: [
-    'vue',
-  ],
-  rules: {
-  },
+  plugins: ["prettier"],
+  // add your custom rules here
+  rules: {},
 };

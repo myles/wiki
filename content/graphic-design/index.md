@@ -10,7 +10,7 @@ children: graphic-design
 ## Applications
 
 -   Adobe Creative Suite
-    -   [Illustrator](adobe-illustrator){: .internal-link}
+    -   [Illustrator](adobe-illustrator)
 
 ## Assets
 
@@ -18,8 +18,8 @@ children: graphic-design
 
 ## Techniques
 
--   [Pen Plotters](pen-plotters){: .internal-link}
--   [Zine](zine){: .internal-link}
+-   [Pen Plotters](pen-plotters)
+-   [Zine](zine)
 
 ## Scripts
 

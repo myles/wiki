@@ -3,7 +3,7 @@ title: Fire OS
 parent: android
 ---
 
-<dfn>Fire OS</dfn> is an [Android](index){: .internal-link}-based operating system built by Amazon.
+<dfn>Fire OS</dfn> is an [Android](index)-based operating system built by Amazon.
 
 ## Links
 

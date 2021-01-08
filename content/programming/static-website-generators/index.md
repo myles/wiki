@@ -5,7 +5,7 @@ permalink: /programming/static-website-generators
 children: programming--static-websie-generators
 ---
 
-I keep a list of [Static Website Generators on GitHub](https://github.com/myles/awesome-static-generators/blob/master/index){: .internal-link}.
+I keep a list of [Static Website Generators on GitHub](https://github.com/myles/awesome-static-generators/blob/master/index).
 
 ## Links
 

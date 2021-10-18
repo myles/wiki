@@ -11,7 +11,7 @@
     "eslint": "7.3.0",
     "eslint-config-airbnb-base": "14.2.0",
     "eslint-plugin-import": "2.21.2",
-    "eslint-plugin-vue": "6.2.2",
+    "eslint-plugin-vue": "7.19.1",
     "remark-cli": "8.0.0",
     "remark-lint-alphabetize-lists": "3.0.0",
     "remark-lint-are-links-valid": "1.0.3",

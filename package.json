@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "@vuepress/plugin-search": "1.5.2",
+    "@vuepress/plugin-search": "1.9.7",
     "fast-glob": "3.2.4",
-    "vuepress": "1.5.2",
+    "vuepress": "1.9.7",
     "vuepress-plugin-export": "0.2.0",
     "vuepress-plugin-feed": "0.1.8",
     "vuepress-plugin-sitemap": "2.3.1"

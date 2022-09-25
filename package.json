@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@vuepress/plugin-search": "1.5.2",
-    "fast-glob": "3.2.4",
+    "fast-glob": "3.2.12",
     "vuepress": "1.5.2",
     "vuepress-plugin-export": "0.2.0",
     "vuepress-plugin-feed": "0.1.8",

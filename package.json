@@ -21,7 +21,7 @@
     "remark-preset-lint-recommended": "4.0.0",
     "remark-validate-links": "10.0.2",
     "write-good": "1.0.2",
-    "markdown-it-footnote": "3.0.2",
+    "markdown-it-footnote": "3.0.3",
     "markdown-it-emoji": "1.4.0"
   },
   "resolutions": {

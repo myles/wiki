@@ -4,6 +4,6 @@
 
 ## Links
 
--   [systemd user services are amazing][1] by Brendan Long, 15 June 2016
+*   [systemd user services are amazing][1] by Brendan Long, 15 June 2016
 
 [1]: https://www.brendanlong.com/systemd-user-services-are-amazing.html

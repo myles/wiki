@@ -4,4 +4,4 @@
 
 ## Links
 
--   [A guide to conda environments](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533) by Matthew Sarmiento, 23 May 2019 - How to manage environments with conda for Python & R. 
+*   [A guide to conda environments](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533) by Matthew Sarmiento, 23 May 2019 - How to manage environments with conda for Python & R.

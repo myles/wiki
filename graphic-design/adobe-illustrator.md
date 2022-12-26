@@ -4,4 +4,4 @@
 
 ## Links
 
--   [Vector icon speedruns](https://bjango.com/articles/iconspeedruns/)
+*   [Vector icon speedruns](https://bjango.com/articles/iconspeedruns/)

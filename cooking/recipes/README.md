@@ -4,4 +4,4 @@ A <dfn>recipe</dfn> is a set of instructions that describes how to prepare or ma
 
 ## Pastas
 
--   [Spaghetti Carbonara](https://www.vice.com/en_us/article/wjwqwn/perfect-spaghetti-carbonara-recipe) - Roman pasta, perfect for lunch, dinner, or a late night feed
+*   [Spaghetti Carbonara](https://www.vice.com/en_us/article/wjwqwn/perfect-spaghetti-carbonara-recipe) - Roman pasta, perfect for lunch, dinner, or a late night feed

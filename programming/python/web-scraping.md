@@ -4,8 +4,8 @@ These are my notes on <dfn>Web Scraping in Python</dfn>
 
 ## Libraries
 
--   cloudflare-scrape - a Python library to bypass Cloudflare's anti-bot page - [:octopus:](https://github.com/Anorov/cloudflare-scrape "cloudflare-scrape on GitHub") [:snake:](https://pypi.python.org/pypi/cfscrape/ "cfscrape on PyPi")
--   [Requests-HTML][1] - Combines [Requests][2] and [PyQuery][3] to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible - [:octopus:][4] [:snake:][5]
+*   cloudflare-scrape - a Python library to bypass Cloudflare's anti-bot page - [:octopus:](https://github.com/Anorov/cloudflare-scrape "cloudflare-scrape on GitHub") [:snake:](https://pypi.python.org/pypi/cfscrape/ "cfscrape on PyPi")
+*   [Requests-HTML][1] - Combines [Requests][2] and [PyQuery][3] to make parsing HTML (e.g. scraping the web) as simple and intuitive as possible - [:octopus:][4] [:snake:][5]
 
 ## Snippets
 

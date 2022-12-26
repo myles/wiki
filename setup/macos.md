@@ -2,16 +2,16 @@
 
 ## Development
 
--   [Tower][1] - a GUI Git client for one I get annoyed with the command line.
+*   [Tower][1] - a GUI Git client for one I get annoyed with the command line.
 
 ## Productivity
 
--   [Bear][2] - for quick note tacking and task lists.
--   [DEVONThink Pro Office][3] - for reading, storing, and indexing PDFs and other documents in macOS.
+*   [Bear][2] - for quick note tacking and task lists.
+*   [DEVONThink Pro Office][3] - for reading, storing, and indexing PDFs and other documents in macOS.
 
 ## Social
 
--   [TweetBot][4] - my favourite Twitter client for iOS and macOS.
+*   [TweetBot][4] - my favourite Twitter client for iOS and macOS.
 
 [1]: https://www.git-tower.com
 

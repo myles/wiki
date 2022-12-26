@@ -11,6 +11,8 @@
   "dependencies": {
     "@vuepress/plugin-search": "^1.9.7",
     "fast-glob": "^3.2.12",
+    "markdown-it-emoji": "^2.0.2",
+    "markdown-it-footnote": "^3.0.3",
     "vuepress": "^1.9.7",
     "vuepress-plugin-export": "^0.2.0",
     "vuepress-plugin-feed": "^0.1.9",
@@ -21,8 +23,6 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-vue": "^9.8.0",
-    "markdown-it-emoji": "^2.0.2",
-    "markdown-it-footnote": "^3.0.3",
     "remark-cli": "^11.0.0",
     "remark-lint-alphabetize-lists": "^3.0.0",
     "remark-lint-are-links-valid": "^1.0.3",

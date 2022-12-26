@@ -192,4 +192,4 @@ See the pandas documentation for more information on [`pandas.DataFrame.isin`][2
 
 [20]: https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.isin.html
 
-[image-1]: ../../assets/gifs/panda-eating.gif
+[image-1]: https://myles.wiki/assets/gifs/panda-eating.gif

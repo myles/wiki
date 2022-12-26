@@ -1,0 +1,9 @@
+{
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "rewrites": [
+        {
+            "source": "/asserts/:path*",
+            "destination": "https://media.githubusercontent.com/media/myles/wiki/master/assets/:path*"
+        }
+    ]
+}

@@ -1,36 +1,36 @@
 {
-  "dependencies": {
-    "@vuepress/plugin-search": "1.5.2",
-    "fast-glob": "3.2.4",
-    "vuepress": "1.5.2",
-    "vuepress-plugin-export": "0.2.0",
-    "vuepress-plugin-feed": "0.1.8",
-    "vuepress-plugin-sitemap": "2.3.1"
-  },
-  "devDependencies": {
-    "eslint": "7.3.0",
-    "eslint-config-airbnb-base": "14.2.0",
-    "eslint-plugin-import": "2.21.2",
-    "eslint-plugin-vue": "6.2.2",
-    "remark-cli": "8.0.0",
-    "remark-lint-alphabetize-lists": "3.0.0",
-    "remark-lint-are-links-valid": "1.0.3",
-    "remark-lint-are-links-valid-alive": "0.3.0",
-    "remark-lint-are-links-valid-duplicate": "0.2.2",
-    "remark-lint-no-dead-urls": "1.0.2",
-    "remark-preset-lint-recommended": "4.0.0",
-    "remark-validate-links": "10.0.2",
-    "write-good": "1.0.2",
-    "markdown-it-footnote": "3.0.2",
-    "markdown-it-emoji": "1.4.0"
-  },
-  "resolutions": {
-    "webpack-dev-middleware": "3.7.2"
-  },
+  "name": "myles-wiki",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "build": "vuepress build .",
     "lint": "remark .",
-    "write-good": "write-good **/*.md",
-    "start": "vuepress dev ."
+    "start": "vuepress dev .",
+    "write-good": "write-good **/*.md"
+  },
+  "dependencies": {
+    "@vuepress/plugin-search": "^1.9.7",
+    "fast-glob": "^3.2.12",
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-export": "^0.2.0",
+    "vuepress-plugin-feed": "^0.1.9",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-vue": "^9.8.0",
+    "markdown-it-emoji": "^2.0.2",
+    "markdown-it-footnote": "^3.0.3",
+    "remark-cli": "^11.0.0",
+    "remark-lint-alphabetize-lists": "^3.0.0",
+    "remark-lint-are-links-valid": "^1.0.3",
+    "remark-lint-are-links-valid-alive": "^0.3.0",
+    "remark-lint-are-links-valid-duplicate": "^0.2.2",
+    "remark-lint-no-dead-urls": "^1.1.0",
+    "remark-preset-lint-recommended": "^6.1.2",
+    "remark-validate-links": "^12.1.0",
+    "write-good": "^1.0.8"
   }
 }

@@ -1,5 +1,11 @@
 {
     "$schema": "https://openapi.vercel.sh/vercel.json",
+    "name": "myles-wiki",
+    "framework": "vuepress",
+    "buildCommand": "vuepress build .",
+    "outputDirectory": ".vuepress/dist/",
+    "devCommand": "vuepress dev .",
+    "installCommand": "npm install --production",
     "rewrites": [
         {
             "source": "/assets/:path*",

@@ -9,6 +9,7 @@
     "write-good": "write-good **/*.md"
   },
   "dependencies": {
+    "@vercel/analytics": "^0.1.11",
     "@vuepress/plugin-search": "^1.9.7",
     "fast-glob": "^3.2.12",
     "markdown-it-emoji": "^2.0.2",

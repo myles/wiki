@@ -1,4 +1,5 @@
 const sidebar = require('./sidebar');
+const vercelPlugin = require('./plugins/vercel');
 
 module.exports = {
   title: "Myles' Wiki",
@@ -18,11 +19,13 @@ module.exports = {
       enable: true,
       title: "Myles' Wiki",
       description: 'A place Myles Braithwaite can try and share everything he researches and knows about a variety of topics.',
-      canonical_base: 'https://wiki.mylesb.ca',
+      canonical_base: 'https://myles.wiki',
     },
     'vuepress-plugin-sitemap': {
-      hostname: 'https://wiki.mylesb.ca',
+      enable: true,
+      hostname: 'https://myles.wiki',
     },
+    'vercel-plugin': vercelPlugin(),
   },
   markdown: {
     lineNumbers: true,
